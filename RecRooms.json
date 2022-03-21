@@ -157,6 +157,46 @@
       }
     ]
   },
+    "TacoLoft": {
+    "Room": {
+      "RoomId":2365681,
+      "Name":"TacoLoft",
+      "Description":"wtf is the original desc for this [room originally created in 2017]",
+      "CreatorPlayerId":1,
+      "ImageName":"ActivityTacoLoft.jpg",
+      "Accessibility":1,
+      "SupportsLevelVoting":false,
+      "IsAGRoom":false,
+      "CloningAllowed":false,
+      "SupportsScreens":true,
+      "SupportsWalkVR":true,
+      "SupportsTeleportVR":true
+    },
+    "Scenes": [
+      {
+        "RoomSceneId":1,
+        "RoomId":2365681,
+        "RoomSceneLocationId":"a067557f-ca32-43e6-b6e5-daaec60b4f5a",
+        "Name":"Home",
+        "IsSandbox":true,
+        "DataBlobName":"9aa0af4948054722b639193669e1111c.room",
+        "MaxPlayers":20,
+        "CanMatchmakeInto":true,
+        "DataModifiedAt":"2021-05-23T20:55:07.8690538-04:00"
+      }
+    ],
+    "CoOwners":[29869076],
+    "Hosts":[],
+    "CheerCount":1,
+    "FavoriteCount":1,
+    "VisitCount":1,
+    "Tags": [
+      {
+        "Tag":"rro",
+        "Type":2
+      }
+    ]
+  },
   "CanvasSpace": {
     "Room": {
       "RoomId":5701195,
