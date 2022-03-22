@@ -277,46 +277,6 @@
       }
     ]
   },
-    "CabinNo420": {
-    "Room": {
-      "RoomId":2365681,
-      "Name":"CabinNo420",
-      "Description":"Hidden Smoke Spot",
-      "CreatorPlayerId":1,
-      "ImageName":"","State":0,
-      "Accessibility":1,
-      "SupportsLevelVoting":false,
-      "IsAGRoom":false,
-      "CloningAllowed":false,
-      "SupportsScreens":true,
-      "SupportsWalkVR":true,
-      "SupportsTeleportVR":true
-    },
-    "Scenes": [
-      {
-        "RoomSceneId":1,
-        "RoomId":2365681,
-        "RoomSceneLocationId":"0a864c86-5a71-4e18-8041-8124e4dc9d98",
-        "Name":"Home",
-        "IsSandbox":true,
-        "DataBlobName":"84r0G7dCAU6eWmRdzY2Yhg.room",
-        "MaxPlayers":20,
-        "CanMatchmakeInto":true,
-        "DataModifiedAt":"2021-05-23T20:55:07.8690538-04:00"
-      }
-    ],
-    "CoOwners":[29869076],
-    "Hosts":[],
-    "CheerCount":1,
-    "FavoriteCount":1,
-    "VisitCount":1,
-    "Tags": [
-      {
-        "Tag":"rro",
-        "Type":2
-      }
-    ]
-  },
   "CanvasSpace": {
     "Room": {
       "RoomId":5701195,
