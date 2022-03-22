@@ -277,7 +277,7 @@
       }
     ]
   },
-      "CabinNo420": {
+    "CabinNo420": {
     "Room": {
       "RoomId":2365681,
       "Name":"CabinNo420",
@@ -317,7 +317,6 @@
       }
     ]
   },
-      "CabinNo420": {
     "RonAndRegBoxing": {
       "RoomId":2365681,
       "Name":"RonAndRegBoxing",
