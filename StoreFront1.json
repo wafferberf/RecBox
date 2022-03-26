@@ -69,7 +69,8 @@
       "GiftDrops": [
         {
           "GiftDropId":85,
-          "FriendlyName":"Cyber Trash Shirt (Black)","Tooltip":"",
+          "FriendlyName":"Cyber Trash Shirt (Black)",
+          "Tooltip":"",
           "AvatarItemDesc":"d0a9262f-5504-46a7-bb10-7507503db58e,yaQ7AlUc3kGq8_RW3eTSmQ,0440f08f-ef1d-49d8-942b-523056e8bb45,d42UBeUO4UO3Q2F8IpeRbQ",
           "ConsumableItemDesc":"",
           "EquipmentPrefabName":"",
@@ -95,7 +96,8 @@
       "GiftDrops": [
         {
           "GiftDropId":89,
-          "FriendlyName":"Cyber Junk City Shirt","Tooltip":"",
+          "FriendlyName":"Cyber Junk City Shirt",
+          "Tooltip":"",
           "AvatarItemDesc":"d0a9262f-5504-46a7-bb10-7507503db58e,nLRxEIBhUkyQsfrk3nzsDA,0440f08f-ef1d-49d8-942b-523056e8bb45,n4hqSCv9OUewI30KnbPhFw",
           "ConsumableItemDesc":"",
           "EquipmentPrefabName":"",
