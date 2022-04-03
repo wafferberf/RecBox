@@ -557,6 +557,46 @@
       }
     ]
   },
+  "RRhelp": {
+    "Room": {
+      "RoomId":107578,
+      "Name":"RRhelp",
+      "Description":"RR tours",
+      "CreatorPlayerId":1,
+      "ImageName":"ActivityRRhelp.jpg",
+      "Accessibility":1,
+      "SupportsLevelVoting":false,
+      "IsAGRoom":false,
+      "CloningAllowed":false,
+      "SupportsScreens":true,
+      "SupportsWalkVR":true,
+      "SupportsTeleportVR":true
+    },
+    "Scenes": [
+      {
+        "RoomSceneId":1,
+        "RoomId":107578,
+        "RoomSceneLocationId":"a75f7547-79eb-47c6-8986-6767abcb4f92",
+        "Name":"Home",
+        "IsSandbox":true,
+        "DataBlobName":"yRMPzdTWjk-md339OVHMAw.room",
+        "MaxPlayers":20,
+        "CanMatchmakeInto":true,
+        "DataModifiedAt":"2021-05-23T20:55:07.8690538-04:00"
+      }
+    ],
+    "CoOwners":[29869076],
+    "Hosts":[],
+    "CheerCount":1,
+    "FavoriteCount":1,
+    "VisitCount":1,
+    "Tags": [
+      {
+        "Tag":"rro",
+        "Type":2
+      }
+    ]
+  },
   "CanvasSpace": {
     "Room": {
       "RoomId":5701195,
