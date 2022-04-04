@@ -12,120 +12,120 @@
           "Price":4500
         }
       ],
-      "GiftDrops": [
-        {
-          "GiftDropId":666,
-          "FriendlyName":"Luchador Cape (Red)",
-          "Tooltip":"",
-          "AvatarItemDesc":"67117b3d-0669-4cf3-8a4f-066cabd4d8b1,,,",
-          "ConsumableItemDesc":"",
-          "EquipmentPrefabName":"",
-          "EquipmentModificationGuid":"",
-          "Rarity":30,
-          "IsQuery":false,
-          "Unique":false,
-          "Level":1,
-          "Context":100010
-        }
-      ]
-    },
-    {
-      "PurchasableItemId":1148,
-      "Type":0,
-      "IsFeatured":false,
-      "Prices": [
-        {
-          "CurrencyType":2,
-          "Price":900
-        }
-      ],
-      "GiftDrops": [
-        {
-          "GiftDropId":1148,
-          "FriendlyName":"Keep Warm Hat (Pink,Brown)",
-          "Tooltip":"",
-          "AvatarItemDesc":"24c4404a-839f-46bd-98b6-6848d747a98b,713781e5-ce47-41c6-a24f-94d42a565e30,,",
-          "ConsumableItemDesc":"",
-          "EquipmentPrefabName":"",
-          "EquipmentModificationGuid":"",
-          "Rarity":30,
-          "IsQuery":false,
-          "Unique":false,
-          "Level":1,
-          "Context":100010
-        }
-      ]
-    },
-    {
-      "PurchasableItemId":615,
-      "Type":0,
-      "IsFeatured":false,
-      "Prices": [
-        {
-          "CurrencyType":2,
-          "Price":900
-        }
-      ],
-      "GiftDrops": [
-        {
-          "GiftDropId":615,
-          "FriendlyName":"Steampunk Vest (Red)",
-          "Tooltip":"",
-          "AvatarItemDesc":"E9VTiIVFPEa-OuQRto0e_Q,Yr0mF1EWzEaIyRMOWFiY6w,,",
-          "ConsumableItemDesc":"",
-          "EquipmentPrefabName":"",
-          "EquipmentModificationGuid":"",
-          "Rarity":30,
-          "IsQuery":false,
-          "Unique":false,
-          "Level":1,
-          "Context":100010
-        }
-      ]
-    },
-    {
-      "PurchasableItemId":1163,
-      "Type":0,
-      "IsFeatured":false,
-      "Prices": [
-        {
-          "CurrencyType":2,
-          "Price":900
-        }
-      ],
-      "GiftDrops": [
-        {
-          "GiftDropId":1163,
-          "FriendlyName":"Keep Warm Hat (White,Pink)",
-          "Tooltip":"",
-          "AvatarItemDesc":"24c4404a-839f-46bd-98b6-6848d747a98b,c1e430c5-fd8d-4032-9e3f-8d87cc8784da,,",
-          "ConsumableItemDesc":"",
-          "EquipmentPrefabName":"",
-          "EquipmentModificationGuid":"",
-          "Rarity":30,
-          "IsQuery":false,
-          "Unique":false,
-          "Level":1,
-          "Context":100010
-        }
-      ]
-    },
-    {
-      "PurchasableItemId":689,
-      "Type":0,
-      "IsFeatured":false,
-      "Prices": [
-        {
-          "CurrencyType":2,
-          "Price":10000
-        }
-      ],
+         "GiftDrops":[
+            {
+               "GiftDropId":421,
+               "FriendlyName":"Drum Major Hat (Red)",
+               "Tooltip":"",
+               "AvatarItemDesc":"1a028850-64ee-40ab-b547-ebbcfa1b04b3,,,",
+               "ConsumableItemDesc":"",
+               "EquipmentPrefabName":"",
+               "EquipmentModificationGuid":"",
+               "Rarity":50,
+               "IsQuery":false,
+               "Unique":false,
+               "Level":1,
+               "Context":100010
+            }
+         ]
+      },
+      {
+         "PurchasableItemId":422,
+         "Type":0,
+         "IsFeatured":false,
+         "Prices":[
+            {
+               "CurrencyType":2,
+               "Price":8000
+            }
+         ],
+         "GiftDrops":[
+            {
+               "GiftDropId":704,
+               "FriendlyName":"Rec Room Hoodie (Black)",
+               "Tooltip":"",
+               "AvatarItemDesc":"b6rLwzD4NkKV7xKn9ZYVkA,,,",
+               "ConsumableItemDesc":"",
+               "EquipmentPrefabName":"",
+               "EquipmentModificationGuid":"",
+               "Rarity":30,
+               "IsQuery":false,
+               "Unique":false,
+               "Level":1,
+               "Context":100010
+            }
+         ]
+      },
+      {
+         "PurchasableItemId":707,
+         "Type":0,
+         "IsFeatured":false,
+         "Prices":[
+            {
+               "CurrencyType":2,
+               "Price":800
+            }
+         ],
+         "GiftDrops":[
+            {
+               "GiftDropId":697,
+               "FriendlyName":"RecFly Vest (Red)",
+               "Tooltip":"",
+               "AvatarItemDesc":"74c65554-0d15-409b-b9a8-0b2620a7d7e2,,,",
+               "ConsumableItemDesc":"",
+               "EquipmentPrefabName":"",
+               "EquipmentModificationGuid":"",
+               "Rarity":20,
+               "IsQuery":false,
+               "Unique":false,
+               "Level":1,
+               "Context":100010
+            }
+         ]
+      },
+      {
+         "PurchasableItemId":479,
+         "Type":0,
+         "IsFeatured":false,
+         "Prices":[
+            {
+               "CurrencyType":2,
+               "Price":550
+            }
+         ],
+         "GiftDrops":[
+            {
+               "GiftDropId":481,
+               "FriendlyName":"Basketball Jersey (Purple)",
+               "Tooltip":"",
+               "AvatarItemDesc":"348ac48b-986e-4d42-a0f7-1aea16b88271,4effd67c-a52f-4b41-a5b0-04287f91a7bc,54a5c055-f757-4c00-a1e1-8b0b6552c608,",
+               "ConsumableItemDesc":"",
+               "EquipmentPrefabName":"",
+               "EquipmentModificationGuid":"",
+               "Rarity":20,
+               "IsQuery":false,
+               "Unique":false,
+               "Level":1,
+               "Context":100010
+            }
+         ]
+      },
+      {
+         "PurchasableItemId":575,
+         "Type":0,
+         "IsFeatured":false,
+         "Prices":[
+            {
+               "CurrencyType":2,
+               "Price":700
+            }
+         ],
       "GiftDrops": [
         {
           "GiftDropId":689,
           "FriendlyName":"Mobster Suit (Fashion)",
           "Tooltip":"",
-          "AvatarItemDesc":"4308da04-af84-40bb-845a-7a9e1a2726ec,46970903-9799-4d25-b90a-7162c1f5dbef,c2052d8c-fbcd-4462-8f08-bcf5b3dfde2f,",
+          "AvatarItemDesc":"C4uuztTiYUe20PACMARksA,,,",
           "ConsumableItemDesc":"",
           "EquipmentPrefabName":"",
           "EquipmentModificationGuid":"",
@@ -147,194 +147,195 @@
           "Price":700
         }
       ],
-      "GiftDrops": [
-        {
-          "GiftDropId":1166,
-          "FriendlyName":"Keep Warm Winter Scarf (Pink,Brown)",
-          "Tooltip":"",
-          "AvatarItemDesc":"e15b13a7-9e9a-4b32-ba2c-0cb31ed55a8c,713781e5-ce47-41c6-a24f-94d42a565e30,,",
-          "ConsumableItemDesc":"",
-          "EquipmentPrefabName":"",
-          "EquipmentModificationGuid":"",
-          "Rarity":30,
-          "IsQuery":false,
-          "Unique":false,
-          "Level":1,
-          "Context":100010
-        }
-      ]
-    },
-    {
-      "PurchasableItemId":1164,
-      "Type":0,
-      "IsFeatured":false,
-      "Prices": [
-        {
-          "CurrencyType":2,
-          "Price":4000
-        }
-      ],
-      "GiftDrops": [
-        {
-          "GiftDropId":1164,
-          "FriendlyName":"Bunny Ears (Pink)",
-          "Tooltip":"",
-          "AvatarItemDesc":"71fd5353-b439-4a23-b471-bfb99b8154d7,97938f4c-52b8-4c85-8575-856654666316,,",
-          "ConsumableItemDesc":"",
-          "EquipmentPrefabName":"",
-          "EquipmentModificationGuid":"",
-          "Rarity":50,
-          "IsQuery":false,
-          "Unique":false,
-          "Level":1,
-          "Context":100010
-        }
-      ]
-    },
-    {
-      "PurchasableItemId":717,
-      "Type":0,
-      "IsFeatured":false,
-      "Prices": [
-        {
-          "CurrencyType":2,
-          "Price":700
-        }
-      ],
-      "GiftDrops": [
-        {
-          "GiftDropId":717,
-          "FriendlyName":"Keep Warm Set Scarf (White,Pink)",
-          "Tooltip":"",
-          "AvatarItemDesc":"e15b13a7-9e9a-4b32-ba2c-0cb31ed55a8c,c1e430c5-fd8d-4032-9e3f-8d87cc8784da,,",
-          "ConsumableItemDesc":"",
-          "EquipmentPrefabName":"",
-          "EquipmentModificationGuid":"",
-          "Rarity":30,
-          "IsQuery":false,
-          "Unique":false,
-          "Level":1,
-          "Context":100010
-        }
-      ]
-    },
-    {
-      "PurchasableItemId":600,
-      "Type":0,
-      "IsFeatured":false,
-      "Prices": [
-        {
-          "CurrencyType":2,
-          "Price":5000
-        }
-      ],
-      "GiftDrops": [
-        {
-          "GiftDropId":600,
-          "FriendlyName":"Mobster Cuffs (Fashion)",
-          "Tooltip":"",
-          "AvatarItemDesc":"08d56627-4500-4724-8692-a23c96ddb3ec,46970903-9799-4d25-b90a-7162c1f5dbef,05cff8b8-d437-485a-b4b8-41d35becd022,",
-          "ConsumableItemDesc":"",
-          "EquipmentPrefabName":"",
-          "EquipmentModificationGuid":"",
-          "Rarity":30,
-          "IsQuery":false,
-          "Unique":false,
-          "Level":1,
-          "Context":100010
-        }
-      ]
-    },
-    {
-      "PurchasableItemId":68,
-      "Type":0,
-      "IsFeatured":false,
-      "Prices": [
-        {
-          "CurrencyType":2,
-          "Price":800
-        }
-      ],
-      "GiftDrops": [
-        {
-          "GiftDropId":68,
-          "FriendlyName":"Keep Warm Winter Sweater (Pink,Brown)",
-          "Tooltip":"",
-          "AvatarItemDesc":"3757149b-f478-4975-81e5-d808a1bed8d5,713781e5-ce47-41c6-a24f-94d42a565e30,,",
-          "ConsumableItemDesc":"",
-          "EquipmentPrefabName":"","EquipmentModificationGuid":"",
-          "Rarity":50,
-          "IsQuery":false,
-          "Unique":false,
-          "Level":1,
-          "Context":100010
-        }
-      ]
-    },
-    {
-      "PurchasableItemId":1168,
-      "Type":0,
-      "IsFeatured":false,
-      "Prices": [
-        {
-          "CurrencyType":2,
-          "Price":9000
-        }
-      ],
-      "GiftDrops": [
-        {
-          "GiftDropId":1168,
-          "FriendlyName":"Space Visor (Red, White)",
-          "Tooltip":"",
-          "AvatarItemDesc":"b89be768-a169-4b24-8022-751e7b817865,5864d23d-1a86-40a6-a52c-46ee670e4508,uB4gFxfrh0W5OtkmZdFN1Q,",
-          "ConsumableItemDesc":"",
-          "EquipmentPrefabName":"",
-          "EquipmentModificationGuid":"",
-          "Rarity":50,
-          "IsQuery":false,
-          "Unique":false,
-          "Level":1,
-          "Context":100010
-        }
-      ]
-    },
-    {
-      "PurchasableItemId":686,
-      "Type":0,
-      "IsFeatured":false,
-      "Prices": [
-        {
-          "CurrencyType":2,
-          "Price":800
-        }
-      ],
-      "GiftDrops": [
-        {
-          "GiftDropId":686,
-          "FriendlyName":"Keep Warm Set Sweater (White,Pink)",
-          "Tooltip":"",
-          "AvatarItemDesc":"3757149b-f478-4975-81e5-d808a1bed8d5,c1e430c5-fd8d-4032-9e3f-8d87cc8784da,,",
-          "ConsumableItemDesc":"",
-          "EquipmentPrefabName":"",
-          "EquipmentModificationGuid":"",
-          "Rarity":50,
-          "IsQuery":false,
-          "Unique":false,
-          "Level":1,
-          "Context":100010
-        }
-      ]
-    },
-    {
-      "PurchasableItemId":1154,
-      "Type":0,
-      "IsFeatured":false,
-      "Prices": [
-        {
-          "CurrencyType":2,
-          "Price":200
-        }
-      ],
+         "GiftDrops":[
+            {
+               "GiftDropId":785,
+               "FriendlyName":"Letter Jacket Cuffs (Blue)",
+               "Tooltip":"",
+               "AvatarItemDesc":"2dFMy4zc7ky_Fd5fzfgInw,,,",
+               "ConsumableItemDesc":"",
+               "EquipmentPrefabName":"",
+               "EquipmentModificationGuid":"",
+               "Rarity":10,
+               "IsQuery":false,
+               "Unique":false,
+               "Level":1,
+               "Context":100010
+            }
+         ]
+      },
+      {
+         "PurchasableItemId":443,
+         "Type":0,
+         "IsFeatured":false,
+         "Prices":[
+            {
+               "CurrencyType":2,
+               "Price":250
+            }
+         ],
+         "GiftDrops":[
+            {
+               "GiftDropId":644,
+               "FriendlyName":"Detective Cap (Black)",
+               "Tooltip":"",
+               "AvatarItemDesc":"5bde836f-9343-4934-b01a-606f707020ef,,,",
+               "ConsumableItemDesc":"",
+               "EquipmentPrefabName":"",
+               "EquipmentModificationGuid":"",
+               "Rarity":20,
+               "IsQuery":false,
+               "Unique":false,
+               "Level":1,
+               "Context":100010
+            }
+         ]
+      },
+      {
+         "PurchasableItemId":645,
+         "Type":0,
+         "IsFeatured":false,
+         "Prices":[
+            {
+               "CurrencyType":2,
+               "Price":600
+            }
+         ],
+         "GiftDrops":[
+            {
+               "GiftDropId":542,
+               "FriendlyName":"Detective Coat (Black)",
+               "Tooltip":"",
+               "AvatarItemDesc":"033e328f-d9d2-4e53-af20-44f18e3ea208,Z1Ib9r_fkUqgoZk0uid_Xw,9ZP617DQk0mZ10J3d5q9oA,",
+               "ConsumableItemDesc":"",
+               "EquipmentPrefabName":"",
+               "EquipmentModificationGuid":"",
+               "Rarity":20,
+               "IsQuery":false,
+               "Unique":false,
+               "Level":1,
+               "Context":100010
+            }
+         ]
+      },
+      {
+         "PurchasableItemId":541,
+         "Type":0,
+         "IsFeatured":false,
+         "Prices":[
+            {
+               "CurrencyType":2,
+               "Price":500
+            }
+         ],
+         "GiftDrops":[
+            {
+               "GiftDropId":211,
+               "FriendlyName":"Mirrored Glasses (Gold)",
+               "Tooltip":"",
+               "AvatarItemDesc":"7db6b49f-3e2a-4da8-bdfa-e9ad9ebc5ba6,,,",
+               "ConsumableItemDesc":"",
+               "EquipmentPrefabName":"",
+               "EquipmentModificationGuid":"",
+               "Rarity":50,
+               "IsQuery":false,
+               "Unique":false,
+               "Level":1,
+               "Context":100010
+            }
+         ]
+      },
+      {
+         "PurchasableItemId":212,
+         "Type":0,
+         "IsFeatured":false,
+         "Prices":[
+            {
+               "CurrencyType":2,
+               "Price":3000
+            }
+         ],
+         "GiftDrops":[
+            {
+               "GiftDropId":1108,
+               "FriendlyName":"Rec Room Hoodie (Blue, White, White)",
+               "Tooltip":"",
+               "AvatarItemDesc":"b6rLwzD4NkKV7xKn9ZYVkA,55901f12-d5b5-4fa8-b4c8-e479689ee39d,oHKhT-GTx0iFWrrlz9s6Tw,",
+               "ConsumableItemDesc":"",
+               "EquipmentPrefabName":"",
+               "EquipmentModificationGuid":"",
+               "Rarity":30,
+               "IsQuery":false,
+               "Unique":false,
+               "Level":1,
+               "Context":100010
+            }
+         ]
+      },
+      {
+         "PurchasableItemId":1109,
+         "Type":0,
+         "IsFeatured":false,
+         "Prices":[
+            {
+               "CurrencyType":2,
+               "Price":800
+            }
+         ],
+         "GiftDrops":[
+            {
+               "GiftDropId":661,
+               "FriendlyName":"Aviator Goggles (Tan)",
+               "Tooltip":"",
+               "AvatarItemDesc":"47629ed1-5378-427c-ad61-4b44d2fe90cc,23428ca9-be75-4146-b400-df01d1dadac9,556f876a-70da-4104-b792-fca8ad67be0c,",
+               "ConsumableItemDesc":"",
+               "EquipmentPrefabName":"",
+               "EquipmentModificationGuid":"",
+               "Rarity":20,
+               "IsQuery":false,
+               "Unique":false,
+               "Level":1,
+               "Context":100010
+            }
+         ]
+      },
+      {
+         "PurchasableItemId":703,
+         "Type":0,
+         "IsFeatured":false,
+         "Prices":[
+            {
+               "CurrencyType":2,
+               "Price":600
+            }
+         ],
+         "GiftDrops":[
+            {
+               "GiftDropId":1161,
+               "FriendlyName":"Swing Dress (Green)",
+               "Tooltip":"",
+               "AvatarItemDesc":"439d1e24-d67f-4b8a-8fb3-8bf589d5a8ee,67fc9269-8dd8-4d6f-b594-c77e716f2482,Rk18_7icF0Srgh7M1_G-hA,",
+               "ConsumableItemDesc":"",
+               "EquipmentPrefabName":"",
+               "EquipmentModificationGuid":"",
+               "Rarity":30,
+               "IsQuery":false,
+               "Unique":false,
+               "Level":1,
+               "Context":100010
+            }
+         ]
+      },
+      {
+         "PurchasableItemId":1162,
+         "Type":0,
+         "IsFeatured":false,
+         "Prices":[
+            {
+               "CurrencyType":2,
+               "Price":900
+            }
+         ],
       "GiftDrops": [
         {
           "GiftDropId":1154,
