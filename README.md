@@ -1,2 +1,2 @@
-  ### Rec Box Server
+  # Rec Box Server
 The one and only.
