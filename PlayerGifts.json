@@ -18,25 +18,4 @@
          }
       ]
    }
-},
-{
-   "LastUpdated":"2021-11-02T00:21:43.4784124Z",
-   "UserGifts":{
-      "29869076": [
-         {
-            "Id":9008,
-            "AvatarItemDesc":"NxMm0sSBdUatynU16o0_Zw",
-            "ConsumableItemDesc":"",
-            "EquipmentPrefabName":"",
-            "EquipmentModificationGuid":"",
-            "CurrencyType":2,
-            "Currency":6942000,
-            "Xp":0,
-            "Level":0,
-            "GiftRarity":0,
-            "Message":"Thank you for a great 2020!",
-            "Context":2
-         }
-      ]
-   }
 }
