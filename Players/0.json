@@ -1,1 +1,10 @@
-{"Id":0,"DisplayName":"0","Username":"0","Level":0,"XP":100,"Developer":false,"IsBooster":false,"BootMultiplier":0}
+{
+  "Id":0,
+  "DisplayName":"0",
+  "Username":"0",
+  "Level":0,
+  "XP":100,
+  "Developer":false,
+  "IsBooster":false,
+  "BootMultiplier":0
+}
