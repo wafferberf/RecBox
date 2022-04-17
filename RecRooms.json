@@ -844,7 +844,7 @@
       "RoomId":72228,
       "Name":"screamingholotars",
       "Description":"The Lounge",
-      "CreatorPlayerId":2346135155,
+      "CreatorPlayerId":1,
       "ImageName":"Activityscreamingholotars.png",
       "State":0,
       "Accessibility":1,
@@ -868,7 +868,7 @@
         "DataModifiedAt":"2018-06-20T16:04:48.2569546Z"
       }
     ],
-    "CoOwners":[2346135155],
+    "CoOwners":[29869076],
     "Hosts":[],
     "CheerCount":1,
     "FavoriteCount":1,
