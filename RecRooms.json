@@ -1000,6 +1000,46 @@
       }
     ]
   },
+    "rcwars": {
+    "Room": {
+      "RoomId":63423,
+      "Name":"rcwars",
+      "Description":"Paintball: Spillway",
+      "CreatorPlayerId":1,
+      "ImageName":"Activityrcwars.jfif",
+      "Accessibility":1,
+      "SupportsLevelVoting":false,
+      "IsAGRoom":false,
+      "CloningAllowed":false,
+      "SupportsScreens":true,
+      "SupportsWalkVR":true,
+      "SupportsTeleportVR":true
+    },
+    "Scenes": [
+      {
+        "RoomSceneId":1,
+        "RoomId":63423,
+        "RoomSceneLocationId":"58763055-2dfb-4814-80b8-16fac5c85709",
+        "Name":"Home",
+        "IsSandbox":false,
+        "DataBlobName":"VCgNSoNhRESdjNTK0xs40w.room",
+        "MaxPlayers":8,
+        "CanMatchmakeInto":true,
+        "DataModifiedAt":"2021-05-23T20:55:07.8690538-04:00"
+      }
+    ],
+    "CoOwners":[29869076],
+    "Hosts":[],
+    "CheerCount":1,
+    "FavoriteCount":1,
+    "VisitCount":1,
+    "Tags": [
+      {
+        "Tag":"rro",
+        "Type":2
+      }
+    ]
+  },
   "CanvasSpace": {
     "Room": {
       "RoomId":5701195,
