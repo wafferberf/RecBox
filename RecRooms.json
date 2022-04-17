@@ -123,9 +123,10 @@
       "RoomId":1635,
       "Name":"Tavern",
       "Description":"Come warm your boots by the fire",
-      "CreatorPlayerId":110300,
+      "CreatorPlayerId":1,
       "ImageName":"ActivityTavern.jpg",
-      "State":0,"Accessibility":1,
+      "State":0,
+      "Accessibility":1,
       "SupportsLevelVoting":false,
       "IsAGRoom":false,
       "CloningAllowed":false,
@@ -146,7 +147,7 @@
         "DataModifiedAt":"2018-05-18T15:04:55.6057125Z"
       }
     ],
-    "CoOwners":[29869076, 1],
+    "CoOwners":[29869076],
     "Hosts":[],
     "CheerCount":1,
     "FavoriteCount":1,
