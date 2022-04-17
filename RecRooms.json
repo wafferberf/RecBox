@@ -838,6 +838,47 @@
       }
     ]
   },
+   "screamingholotars": {
+    "Room": {
+      "RoomId":72228,
+      "Name":"screamingholotars",
+      "Description":"The Lounge",
+      "CreatorPlayerId":110300,
+      "ImageName":"Activityscreamingholotars.png",
+      "State":0,
+      "Accessibility":1,
+      "SupportsLevelVoting":false,
+      "IsAGRoom":false,
+      "CloningAllowed":false,
+      "SupportsScreens":true,
+      "SupportsWalkVR":true,
+      "SupportsTeleportVR":true
+    },
+    "Scenes": [
+      {
+        "RoomSceneId":1,
+        "RoomId":72228,
+        "RoomSceneLocationId":"a067557f-ca32-43e6-b6e5-daaec60b4f5a",
+        "Name":"Home",
+        "IsSandbox":true,
+        "DataBlobName":"a0SZbHkGaUadp4NRX8wkyA.room",
+        "MaxPlayers":20,
+        "CanMatchmakeInto":true,
+        "DataModifiedAt":"2018-06-20T16:04:48.2569546Z"
+      }
+    ],
+    "CoOwners":[29869076],
+    "Hosts":[],
+    "CheerCount":1,
+    "FavoriteCount":1,
+    "VisitCount":1,
+    "Tags": [
+      {
+        "Tag":"community",
+        "Type":2
+      }
+    ]
+  },
   "CanvasSpace": {
     "Room": {
       "RoomId":5701195,
