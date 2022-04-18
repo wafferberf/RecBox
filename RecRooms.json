@@ -1082,6 +1082,46 @@
       }
     ]
   },
+    "holodanceparty": {
+    "Room": {
+      "RoomId":2365681,
+      "Name":"holodanceparty",
+      "Description":"[contest]",
+      "CreatorPlayerId":1,
+      "ImageName":"Activityholodanceparty.jpg",
+      "Accessibility":1,
+      "SupportsLevelVoting":false,
+      "IsAGRoom":false,
+      "CloningAllowed":false,
+      "SupportsScreens":true,
+      "SupportsWalkVR":true,
+      "SupportsTeleportVR":true
+    },
+    "Scenes": [
+      {
+        "RoomSceneId":1,
+        "RoomId":2365681,
+        "RoomSceneLocationId":"9932f88f-3929-43a0-a012-a40b5128e346",
+        "Name":"Home",
+        "IsSandbox":true,
+        "DataBlobName":"9itkkTbobUGP45bCOUDuGQ.room",
+        "MaxPlayers":40,
+        "CanMatchmakeInto":true,
+        "DataModifiedAt":"2018-03-04T20:01:04.6606017Z"
+      }
+    ],
+    "CoOwners":[29869076],
+    "Hosts":[],
+    "CheerCount":25,
+    "FavoriteCount":32,
+    "VisitCount":689,
+    "Tags": [
+      {
+        "Tag":"rro",
+        "Type":2
+      }
+    ]
+  },
   "3DCharades": {
     "Room": {
       "RoomId":3,
