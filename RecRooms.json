@@ -1122,6 +1122,46 @@
       }
     ]
   },
+    "AkwardHolotars": {
+    "Room": {
+      "RoomId":62429,
+      "Name":"AkwardHolotars",
+      "Description":"The Lounge",
+      "CreatorPlayerId":1,
+      "ImageName":"ActivityAkwardHolotars.jpg",
+      "Accessibility":1,
+      "SupportsLevelVoting":false,
+      "IsAGRoom":false,
+      "CloningAllowed":false,
+      "SupportsScreens":true,
+      "SupportsWalkVR":true,
+      "SupportsTeleportVR":true
+    },
+    "Scenes": [
+      {
+        "RoomSceneId":1,
+        "RoomId":62429,
+        "RoomSceneLocationId":"a067557f-ca32-43e6-b6e5-daaec60b4f5a",
+        "Name":"Home",
+        "IsSandbox":true,
+        "DataBlobName":"zIYTtalfxE-0wiTwmDSEwQ.room",
+        "MaxPlayers":16,
+        "CanMatchmakeInto":true,
+        "DataModifiedAt":"2018-04-22T16:31:01.838257Z"
+      }
+    ],
+    "CoOwners":[29869076],
+    "Hosts":[],
+    "CheerCount":3,
+    "FavoriteCount":4,
+    "VisitCount":136,
+    "Tags": [
+      {
+        "Tag":"rro",
+        "Type":2
+      }
+    ]
+  },
   "3DCharades": {
     "Room": {
       "RoomId":3,
