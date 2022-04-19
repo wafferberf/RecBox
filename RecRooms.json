@@ -1002,6 +1002,46 @@
       }
     ]
   },
+    "WarRoom": {
+    "Room": {
+      "RoomId":524,
+      "Name":"WarRoom",
+      "Description":"Park",
+      "CreatorPlayerId":1,
+      "ImageName":"ActivityWarRoom.jfif",
+      "Accessibility":1,
+      "SupportsLevelVoting":false,
+      "IsAGRoom":false,
+      "CloningAllowed":false,
+      "SupportsScreens":true,
+      "SupportsWalkVR":true,
+      "SupportsTeleportVR":true
+    },
+    "Scenes": [
+      {
+        "RoomSceneId":1,
+        "RoomId":524,
+        "RoomSceneLocationId":"0a864c86-5a71-4e18-8041-8124e4dc9d98",
+        "Name":"Home",
+        "IsSandbox":true,
+        "DataBlobName":"N6ymjwbHLUW7zp2NHxzh4w.room",
+        "MaxPlayers":8,
+        "CanMatchmakeInto":true,
+        "DataModifiedAt":"2018-08-12T23:00:38.8102163Z"
+      }
+    ],
+    "CoOwners":[29869076],
+    "Hosts":[],
+    "CheerCount":55,
+    "FavoriteCount":95,
+    "VisitCount":3485,
+    "Tags": [
+      {
+        "Tag":"community",
+        "Type":2
+      }
+    ]
+  },
     "PokemonSnapDEMO": {
     "Room": {
       "RoomId":2365681,
