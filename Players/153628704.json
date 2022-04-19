@@ -1,1 +1,10 @@
-{"Id":153628704,"DisplayName":"Lucas","Username":"Lucas","Level":99,"XP":110,"Developer":true}
+{
+  "Id":153628704,
+  "DisplayName":"Lucas",
+  "Username":"Lucas",
+  "Level":99,
+  "XP":110,
+  "Developer":true,
+  "IsBooster":true,
+  "BootMultiplier":0
+}
