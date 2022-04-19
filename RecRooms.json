@@ -1162,6 +1162,46 @@
       }
     ]
   },
+    "Holotars": {
+    "Room": {
+      "RoomId":28031,
+      "Name":"Holotars",
+      "Description":"Example of holotars",
+      "CreatorPlayerId":1,
+      "ImageName":"ActivityHolotars.jpg",
+      "Accessibility":1,
+      "SupportsLevelVoting":false,
+      "IsAGRoom":false,
+      "CloningAllowed":false,
+      "SupportsScreens":true,
+      "SupportsWalkVR":true,
+      "SupportsTeleportVR":true
+    },
+    "Scenes": [
+      {
+        "RoomSceneId":1,
+        "RoomId":28031,
+        "RoomSceneLocationId":"d89f74fa-d51e-477a-a425-025a891dd499",
+        "Name":"Home",
+        "IsSandbox":true,
+        "DataBlobName":"iPTgoBXTE0eD620yuQyjKw.room",
+        "MaxPlayers":4,
+        "CanMatchmakeInto":true,
+        "DataModifiedAt":"2018-03-03T03:53:14.2379273Z"
+      }
+    ],
+    "CoOwners":[29869076],
+    "Hosts":[],
+    "CheerCount":3,
+    "FavoriteCount":18,
+    "VisitCount":214,
+    "Tags": [
+      {
+        "Tag":"rro",
+        "Type":2
+      }
+    ]
+  },
   "3DCharades": {
     "Room": {
       "RoomId":3,
