@@ -962,6 +962,46 @@
       }
     ]
   },
+    "DefendTheKeep": {
+    "Room": {
+      "RoomId":43841,
+      "Name":"DefendTheKeep",
+      "Description":"Defend the Keep from Invaders!",
+      "CreatorPlayerId":1,
+      "ImageName":"ActivityDefendTheKeep.jfif",
+      "Accessibility":1,
+      "SupportsLevelVoting":false,
+      "IsAGRoom":false,
+      "CloningAllowed":false,
+      "SupportsScreens":true,
+      "SupportsWalkVR":true,
+      "SupportsTeleportVR":true
+    },
+    "Scenes": [
+      {
+        "RoomSceneId":1,
+        "RoomId":43841,
+        "RoomSceneLocationId":"0a864c86-5a71-4e18-8041-8124e4dc9d98",
+        "Name":"Home",
+        "IsSandbox":true,
+        "DataBlobName":"dXjsVfpR7EaWJ_sHqMpqCw.room",
+        "MaxPlayers":8,
+        "CanMatchmakeInto":true,
+        "DataModifiedAt":"2018-08-12T23:00:38.8102163Z"
+      }
+    ],
+    "CoOwners":[29869076],
+    "Hosts":[],
+    "CheerCount":2,
+    "FavoriteCount":5,
+    "VisitCount":106,
+    "Tags": [
+      {
+        "Tag":"community",
+        "Type":2
+      }
+    ]
+  },
     "PokemonSnapDEMO": {
     "Room": {
       "RoomId":2365681,
