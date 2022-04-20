@@ -1468,7 +1468,8 @@
       "CloningAllowed":false,
       "SupportsScreens":true,
       "SupportsWalkVR":true,
-      "SupportsTeleportVR":true},
+      "SupportsTeleportVR":true
+    },
     "Scenes": [
       {
         "RoomSceneId":1,
