@@ -1042,6 +1042,46 @@
       }
     ]
   },
+    "FarisArtPark": {
+    "Room": {
+      "RoomId":129585,
+      "Name":"FarisArtPark",
+      "Description":"Park",
+      "CreatorPlayerId":1,
+      "ImageName":"ActivityWarRoom.jfif",
+      "Accessibility":1,
+      "SupportsLevelVoting":false,
+      "IsAGRoom":false,
+      "CloningAllowed":false,
+      "SupportsScreens":true,
+      "SupportsWalkVR":true,
+      "SupportsTeleportVR":true
+    },
+    "Scenes": [
+      {
+        "RoomSceneId":1,
+        "RoomId":129585,
+        "RoomSceneLocationId":"0a864c86-5a71-4e18-8041-8124e4dc9d98",
+        "Name":"Home",
+        "IsSandbox":true,
+        "DataBlobName":"lmlKZ_gd30aiJXIx53V_Wg.room",
+        "MaxPlayers":8,
+        "CanMatchmakeInto":true,
+        "DataModifiedAt":"2018-08-12T23:00:38.8102163Z"
+      }
+    ],
+    "CoOwners":[29869076],
+    "Hosts":[],
+    "CheerCount":5,
+    "FavoriteCount":5,
+    "VisitCount":234,
+    "Tags": [
+      {
+        "Tag":"community",
+        "Type":2
+      }
+    ]
+  },
     "PokemonSnapDEMO": {
     "Room": {
       "RoomId":2365681,
