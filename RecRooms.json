@@ -486,7 +486,7 @@
       "RoomId":106040,
       "Name":"DoNotBeAfraid",
       "Description":"Just a thing",
-      "CreatorPlayerId":1,
+      "CreatorPlayerId":178249,
       "ImageName":"ActivityDoNotBeAfraid.png",
       "Accessibility":1,
       "SupportsLevelVoting":false,
@@ -509,8 +509,8 @@
         "DataModifiedAt":"2018-08-30T18:42:28.4074084Z"
       }
     ],
-    "CoOwners":[29869076],
-    "Hosts":[],
+    "CoOwners":[],
+    "Hosts":[29869076],
     "CheerCount":107,
     "FavoriteCount":127,
     "VisitCount":2336,
@@ -566,7 +566,7 @@
       "RoomId":178847,
       "Name":"Foret",
       "Description":"Who don`t like house in a tree?",
-      "CreatorPlayerId":1,
+      "CreatorPlayerId":178249,
       "ImageName":"ActivityForet.png",
       "State":0,
       "Accessibility":1,
@@ -590,8 +590,8 @@
         "DataModifiedAt":"2018-09-12T15:27:58.2996175Z"
       }
     ],
-    "CoOwners":[29869076],
-    "Hosts":[],
+    "CoOwners":[],
+    "Hosts":[29869076],
     "CheerCount":72,
     "FavoriteCount":105,
     "VisitCount":1619,
