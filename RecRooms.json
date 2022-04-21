@@ -1684,6 +1684,46 @@
       }
     ]
   },
+  "RecAirlines": {
+    "Room": {
+      "RoomId":42596,
+      "Name":"RecAirlines",
+      "Description":"Come fly with us!",
+      "CreatorPlayerId":1,
+      "ImageName":"ActivityRecAirlines.jpg",
+      "Accessibility":1,
+      "SupportsLevelVoting":false,
+      "IsAGRoom":false,
+      "CloningAllowed":false,
+      "SupportsScreens":true,
+      "SupportsWalkVR":true,
+      "SupportsTeleportVR":true
+    },
+    "Scenes": [
+      {
+        "RoomSceneId":1,
+        "RoomId":42596,
+        "RoomSceneLocationId":"d89f74fa-d51e-477a-a425-025a891dd499",
+        "Name":"Home",
+        "IsSandbox":true,
+        "DataBlobName":"-ZvKAfQJPki-8wn5GqEd7g.room",
+        "MaxPlayers":20,
+        "CanMatchmakeInto":true,
+        "DataModifiedAt":"2018-07-13T23:57:57.6833045Z"
+      }
+    ],
+    "CoOwners":[29869076],
+    "Hosts":[],
+    "CheerCount":566,
+    "FavoriteCount":915,
+    "VisitCount":46617,
+    "Tags": [
+      {
+        "Tag":"rro",
+        "Type":2
+      }
+    ]
+  },
   "3DCharades": {
     "Room": {
       "RoomId":3,
