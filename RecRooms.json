@@ -561,6 +561,47 @@
       }
     ]
   },
+    "Foret": {
+    "Room": {
+      "RoomId":178847,
+      "Name":"Foret",
+      "Description":"Who don`t like house in a tree?",
+      "CreatorPlayerId":1,
+      "ImageName":"ActivityForet.png",
+      "State":0,
+      "Accessibility":1,
+      "SupportsLevelVoting":false,
+      "IsAGRoom":false,
+      "CloningAllowed":false,
+      "SupportsScreens":true,
+      "SupportsWalkVR":true,
+      "SupportsTeleportVR":true
+    },
+    "Scenes": [
+      {
+        "RoomSceneId":1,
+        "RoomId":178847,
+        "RoomSceneLocationId":"a75f7547-79eb-47c6-8986-6767abcb4f92",
+        "Name":"Home",
+        "IsSandbox":true,
+        "DataBlobName":"2zw2N5hNeU6dgykM0ipfsQ.room",
+        "MaxPlayers":40,
+        "CanMatchmakeInto":true,
+        "DataModifiedAt":"2018-09-12T15:27:58.2996175Z"
+      }
+    ],
+    "CoOwners":[29869076],
+    "Hosts":[],
+    "CheerCount":72,
+    "FavoriteCount":105,
+    "VisitCount":1619,
+    "Tags": [
+      {
+        "Tag":"community",
+        "Type":2
+      }
+    ]
+  },
     "Quizroom": {
     "Room": {
       "RoomId":2365681,
