@@ -1564,6 +1564,46 @@
       }
     ]
   },
+    "Xenomorph": {
+    "Room": {
+      "RoomId":30181,
+      "Name":"Xenomorph",
+      "Description":"Xenomorph!",
+      "CreatorPlayerId":1,
+      "ImageName":"ActivityXenomorph.jpg",
+      "Accessibility":1,
+      "SupportsLevelVoting":false,
+      "IsAGRoom":false,
+      "CloningAllowed":false,
+      "SupportsScreens":true,
+      "SupportsWalkVR":true,
+      "SupportsTeleportVR":true
+    },
+    "Scenes": [
+      {
+        "RoomSceneId":1,
+        "RoomId":30181,
+        "RoomSceneLocationId":"0a864c86-5a71-4e18-8041-8124e4dc9d98",
+        "Name":"Home",
+        "IsSandbox":true,
+        "DataBlobName":"elcRBrlElUiL_0y5rNE8hg.room",
+        "MaxPlayers":20,
+        "CanMatchmakeInto":true,
+        "DataModifiedAt":"2018-09-29T16:56:58.1332491Z"
+      }
+    ],
+    "CoOwners":[29869076],
+    "Hosts":[],
+    "CheerCount":132,
+    "FavoriteCount":210,
+    "VisitCount":8624,
+    "Tags": [
+      {
+        "Tag":"rro",
+        "Type":2
+      }
+    ]
+  },
   "3DCharades": {
     "Room": {
       "RoomId":3,
