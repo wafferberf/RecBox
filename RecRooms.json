@@ -1524,46 +1524,6 @@
       }
     ]
   },
-    "BlockFort": {
-    "Room": {
-      "RoomId":61429,
-      "Name":"BlockFort",
-      "Description":"Fast-Paced PVP",
-      "CreatorPlayerId":1,
-      "ImageName":"ActivityBlockFort.jpg",
-      "Accessibility":1,
-      "SupportsLevelVoting":false,
-      "IsAGRoom":false,
-      "CloningAllowed":false,
-      "SupportsScreens":true,
-      "SupportsWalkVR":true,
-      "SupportsTeleportVR":true
-    },
-    "Scenes": [
-      {
-        "RoomSceneId":1,
-        "RoomId":61429,
-        "RoomSceneLocationId":"a75f7547-79eb-47c6-8986-6767abcb4f92",
-        "Name":"Home",
-        "IsSandbox":true,
-        "DataBlobName":"l1M7g_RUHkq8Fqr0tduqaw.room",
-        "MaxPlayers"16,
-        "CanMatchmakeInto":true,
-        "DataModifiedAt":"2018-04-21T02:29:24.706932Z"
-      }
-    ],
-    "CoOwners":[29869076],
-    "Hosts":[],
-    "CheerCount":7,
-    "FavoriteCount":13,
-    "VisitCount":216,
-    "Tags": [
-      {
-        "Tag":"rro",
-        "Type":2
-      }
-    ]
-  },
   "3DCharades": {
     "Room": {
       "RoomId":3,
