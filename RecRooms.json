@@ -1443,6 +1443,46 @@
       }
     ]
   },
+    "RobotLab": {
+    "Room": {
+      "RoomId":76789,
+      "Name":"RobotLab",
+      "Description":"Build a custom robot.",
+      "CreatorPlayerId":1,
+      "ImageName":"ActivityRobotLab.jpg",
+      "Accessibility":1,
+      "SupportsLevelVoting":false,
+      "IsAGRoom":false,
+      "CloningAllowed":false,
+      "SupportsScreens":true,
+      "SupportsWalkVR":true,
+      "SupportsTeleportVR":true
+    },
+    "Scenes": [
+      {
+        "RoomSceneId":1,
+        "RoomId":76789,
+        "RoomSceneLocationId":"a75f7547-79eb-47c6-8986-6767abcb4f92",
+        "Name":"Home",
+        "IsSandbox":true,
+        "DataBlobName":"ZDLcSm4bx0-mtqsKtdygQg.room",
+        "MaxPlayers":4,
+        "CanMatchmakeInto":true,
+        "DataModifiedAt":"2018-06-21T03:04:29.4336625Z"
+      }
+    ],
+    "CoOwners":[29869076],
+    "Hosts":[],
+    "CheerCount":69,
+    "FavoriteCount":138,
+    "VisitCount":5450,
+    "Tags": [
+      {
+        "Tag":"rro",
+        "Type":2
+      }
+    ]
+  },
   "3DCharades": {
     "Room": {
       "RoomId":3,
