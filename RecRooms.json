@@ -1564,6 +1564,46 @@
       }
     ]
   },
+    "ReclaFactory": {
+    "Room": {
+      "RoomId":28131,
+      "Name":"ReclaFactory",
+      "Description":"The candy factory's main atrium!",
+      "CreatorPlayerId":1,
+      "ImageName":"ActivityReclaFactory.jpg",
+      "Accessibility":1,
+      "SupportsLevelVoting":false,
+      "IsAGRoom":false,
+      "CloningAllowed":false,
+      "SupportsScreens":true,
+      "SupportsWalkVR":true,
+      "SupportsTeleportVR":true
+    },
+    "Scenes": [
+      {
+        "RoomSceneId":1,
+        "RoomId":28131,
+        "RoomSceneLocationId":"3d474b26-26f7-45e9-9a36-9b02847d5e6f",
+        "Name":"Home",
+        "IsSandbox":true,
+        "DataBlobName":"o2_fNPQHbkyYyR7aVnRV9Q.room",
+        "MaxPlayers":4,
+        "CanMatchmakeInto":true,
+        "DataModifiedAt":"2018-06-26T03:09:05.2667732Z"
+      }
+    ],
+    "CoOwners":[29869076],
+    "Hosts":[],
+    "CheerCount":146,
+    "FavoriteCount":115,
+    "VisitCount":17340,
+    "Tags": [
+      {
+        "Tag":"rro",
+        "Type":2
+      }
+    ]
+  },
   "3DCharades": {
     "Room": {
       "RoomId":3,
