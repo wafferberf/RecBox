@@ -2004,6 +2004,46 @@
       }
     ]
   },
+  "icekingdom": {
+    "Room": {
+      "RoomId":16142,
+      "Name":"icekingdom",
+      "Description":"home to iceking",
+      "CreatorPlayerId":1,
+      "ImageName":"Activityicekingdom.jpg",
+      "Accessibility":1,
+      "SupportsLevelVoting":false,
+      "IsAGRoom":false,
+      "CloningAllowed":false,
+      "SupportsScreens":true,
+      "SupportsWalkVR":true,
+      "SupportsTeleportVR":true
+    },
+    "Scenes": [
+      {
+        "RoomSceneId":1,
+        "RoomId":16142,
+        "RoomSceneLocationId":"0a864c86-5a71-4e18-8041-8124e4dc9d98",
+        "Name":"Home",
+        "IsSandbox":true,
+        "DataBlobName":"myI7ENbO_0yaQFhaBbgZJw.room",
+        "MaxPlayers":20,
+        "CanMatchmakeInto":true,
+        "DataModifiedAt":"2018-02-28T16:44:06.6770811Z"
+      }
+    ],
+    "CoOwners":[29869076],
+    "Hosts":[],
+    "CheerCount":12,
+    "FavoriteCount":15,
+    "VisitCount":972,
+    "Tags": [
+      {
+        "Tag":"rro",
+        "Type":2
+      }
+    ]
+  },
   "3DCharades": {
     "Room": {
       "RoomId":3,
