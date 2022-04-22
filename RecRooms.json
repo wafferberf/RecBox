@@ -1964,6 +1964,46 @@
       }
     ]
   },
+  "marcelineshome": {
+    "Room": {
+      "RoomId":25849,
+      "Name":"marcelineshome",
+      "Description":"marcelines home",
+      "CreatorPlayerId":1,
+      "ImageName":"Activitymarcelineshome.jpg",
+      "Accessibility":1,
+      "SupportsLevelVoting":false,
+      "IsAGRoom":false,
+      "CloningAllowed":false,
+      "SupportsScreens":true,
+      "SupportsWalkVR":true,
+      "SupportsTeleportVR":true
+    },
+    "Scenes": [
+      {
+        "RoomSceneId":1,
+        "RoomId":25849,
+        "RoomSceneLocationId":"0a864c86-5a71-4e18-8041-8124e4dc9d98",
+        "Name":"Home",
+        "IsSandbox":true,
+        "DataBlobName":"DIuE8KOX2kK6jpCT9rvwhg.room",
+        "MaxPlayers":20,
+        "CanMatchmakeInto":true,
+        "DataModifiedAt":"2018-02-25T23:26:30.4804351Z"
+      }
+    ],
+    "CoOwners":[29869076],
+    "Hosts":[],
+    "CheerCount":14,
+    "FavoriteCount":16,
+    "VisitCount":762,
+    "Tags": [
+      {
+        "Tag":"rro",
+        "Type":2
+      }
+    ]
+  },
   "3DCharades": {
     "Room": {
       "RoomId":3,
