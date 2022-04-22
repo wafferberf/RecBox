@@ -1924,6 +1924,46 @@
       }
     ]
   },
+  "welcomeToChilisWip": {
+    "Room": {
+      "RoomId":28948,
+      "Name":"welcomeToChilisWip",
+      "Description":"Park",
+      "CreatorPlayerId":1,
+      "ImageName":"ActivitywelcomeToChilisWip.jpg",
+      "Accessibility":1,
+      "SupportsLevelVoting":false,
+      "IsAGRoom":false,
+      "CloningAllowed":false,
+      "SupportsScreens":true,
+      "SupportsWalkVR":true,
+      "SupportsTeleportVR":true
+    },
+    "Scenes": [
+      {
+        "RoomSceneId":1,
+        "RoomId":28948,
+        "RoomSceneLocationId":"0a864c86-5a71-4e18-8041-8124e4dc9d98",
+        "Name":"Home",
+        "IsSandbox":true,
+        "DataBlobName":"i1_rY46WC06_IsWiZVmHRg.room",
+        "MaxPlayers":20,
+        "CanMatchmakeInto":true,
+        "DataModifiedAt":"2018-03-30T01:50:54.8928337Z"
+      }
+    ],
+    "CoOwners":[29869076],
+    "Hosts":[],
+    "CheerCount":148,
+    "FavoriteCount":180,
+    "VisitCount":4092,
+    "Tags": [
+      {
+        "Tag":"rro",
+        "Type":2
+      }
+    ]
+  },
   "3DCharades": {
     "Room": {
       "RoomId":3,
