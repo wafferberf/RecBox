@@ -1764,6 +1764,46 @@
       }
     ]
   },
+  "3Dpuzzles": {
+    "Room": {
+      "RoomId":23980,
+      "Name":"3Dpuzzles",
+      "Description":"Solve 3D puzzles",
+      "CreatorPlayerId":1,
+      "ImageName":"","State":0,
+      "Accessibility":1,
+      "SupportsLevelVoting":false,
+      "IsAGRoom":false,
+      "CloningAllowed":false,
+      "SupportsScreens":true,
+      "SupportsWalkVR":true,
+      "SupportsTeleportVR":true
+    },
+    "Scenes": [
+      {
+        "RoomSceneId":1,
+        "RoomId":23980,
+        "RoomSceneLocationId":"a067557f-ca32-43e6-b6e5-daaec60b4f5a",
+        "Name":"Home",
+        "IsSandbox":true,
+        "DataBlobName":"7R21IL4wAkeMpfoFPu1DUA.room",
+        "MaxPlayers":16,
+        "CanMatchmakeInto":true,
+        "DataModifiedAt":"2018-02-20T22:31:44.7843318Z"
+      }
+    ],
+    "CoOwners":[29869076],
+    "Hosts":[],
+    "CheerCount":1,
+    "FavoriteCount":1,
+    "VisitCount":1,
+    "Tags": [
+      {
+        "Tag":"rro",
+        "Type":2
+      }
+    ]
+  },
   "3DCharades": {
     "Room": {
       "RoomId":3,
