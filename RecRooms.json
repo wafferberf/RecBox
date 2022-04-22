@@ -1844,6 +1844,86 @@
       }
     ]
   },
+  "xwing": {
+    "Room": {
+      "RoomId":3528,
+      "Name":"xwing",
+      "Description":"Pilot iconic star wars ships",
+      "CreatorPlayerId":1,
+      "ImageName":"Activityxwing.jpg",
+      "Accessibility":1,
+      "SupportsLevelVoting":false,
+      "IsAGRoom":false,
+      "CloningAllowed":false,
+      "SupportsScreens":true,
+      "SupportsWalkVR":true,
+      "SupportsTeleportVR":true
+    },
+    "Scenes": [
+      {
+        "RoomSceneId":1,
+        "RoomId":3528,
+        "RoomSceneLocationId":"0a864c86-5a71-4e18-8041-8124e4dc9d98",
+        "Name":"Home",
+        "IsSandbox":true,
+        "DataBlobName":"U9480kxFnU2nXEaxTm_CxA.room",
+        "MaxPlayers":11,
+        "CanMatchmakeInto":true,
+        "DataModifiedAt":"2018-03-15T23:09:02.4542495Z"
+      }
+    ],
+    "CoOwners":[29869076],
+    "Hosts":[],
+    "CheerCount":363,
+    "FavoriteCount":369,
+    "VisitCount":15225,
+    "Tags": [
+      {
+        "Tag":"rro",
+        "Type":2
+      }
+    ]
+  },
+  "GunsAndBottles": {
+    "Room": {
+      "RoomId":9194,
+      "Name":"GunsAndBottles",
+      "Description":"Practice Range by Nelsonjav",
+      "CreatorPlayerId":1,
+      "ImageName":"ActivityGunsAndBottles.jpg",
+      "Accessibility":1,
+      "SupportsLevelVoting":false,
+      "IsAGRoom":false,
+      "CloningAllowed":false,
+      "SupportsScreens":true,
+      "SupportsWalkVR":true,
+      "SupportsTeleportVR":true
+    },
+    "Scenes": [
+      {
+        "RoomSceneId":1,
+        "RoomId":9194,
+        "RoomSceneLocationId":"9932f88f-3929-43a0-a012-a40b5128e346",
+        "Name":"Home",
+        "IsSandbox":true,
+        "DataBlobName":"HYoDu1V4kECPyYNgL1rQPA.room",
+        "MaxPlayers":8,
+        "CanMatchmakeInto":true,
+        "DataModifiedAt":"2018-02-18T17:50:16.210288Z"
+      }
+    ],
+    "CoOwners":[29869076],
+    "Hosts":[],
+    "CheerCount":126,
+    "FavoriteCount":73,
+    "VisitCount":3171,
+    "Tags": [
+      {
+        "Tag":"rro",
+        "Type":2
+      }
+    ]
+  },
   "3DCharades": {
     "Room": {
       "RoomId":3,
