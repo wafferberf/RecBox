@@ -2044,6 +2044,86 @@
       }
     ]
   },
+  "RecRoomProWrestling": {
+    "Room": {
+      "RoomId":20481,
+      "Name":"RecRoomProWrestling",
+      "Description":"Rec Room Pro Wrestling!",
+      "CreatorPlayerId":1,
+      "ImageName":"ActivityRecRoomProWrestling.jpg",
+      "Accessibility":1,
+      "SupportsLevelVoting":false,
+      "IsAGRoom":false,
+      "CloningAllowed":false,
+      "SupportsScreens":true,
+      "SupportsWalkVR":true,
+      "SupportsTeleportVR":true
+    },
+    "Scenes": [
+      {
+        "RoomSceneId":1,
+        "RoomId":20481,
+        "RoomSceneLocationId":"9932f88f-3929-43a0-a012-a40b5128e346",
+        "Name":"Home",
+        "IsSandbox":true,
+        "DataBlobName":"1uAfgKGHv06d2Xk5wQO9YQ.room",
+        "MaxPlayers":40,
+        "CanMatchmakeInto":true,
+        "DataModifiedAt":"2018-07-15T18:21:47.9352787Z"
+      }
+    ],
+    "CoOwners":[29869076],
+    "Hosts":[],
+    "CheerCount":234,
+    "FavoriteCount":357,
+    "VisitCount":19061,
+    "Tags": [
+      {
+        "Tag":"rro",
+        "Type":2
+      }
+    ]
+  },
+  "rotatingCube": {
+    "Room": {
+      "RoomId":74249,
+      "Name":"rotatingCube",
+      "Description":"Experimenting with high contrast",
+      "CreatorPlayerId":1,
+      "ImageName":"ActivityrotatingCube.jpg",
+      "Accessibility":1,
+      "SupportsLevelVoting":false,
+      "IsAGRoom":false,
+      "CloningAllowed":false,
+      "SupportsScreens":true,
+      "SupportsWalkVR":true,
+      "SupportsTeleportVR":true
+    },
+    "Scenes": [
+      {
+        "RoomSceneId":1,
+        "RoomId":74249,
+        "RoomSceneLocationId":"0a864c86-5a71-4e18-8041-8124e4dc9d98",
+        "Name":"Home",
+        "IsSandbox":true,
+        "DataBlobName":"Duy1bXWjMU6ppz4Ad_3XiA.room",
+        "MaxPlayers":20,
+        "CanMatchmakeInto":true,
+        "DataModifiedAt":"2018-05-19T22:48:18.9962866Z"
+     }
+    ],
+    "CoOwners":[29869076],
+    "Hosts":[],
+    "CheerCount":24,
+    "FavoriteCount":28,
+    "VisitCount":1398,
+    "Tags": [
+      {
+        "Tag":"rro",
+        "Type":2
+      }
+    ]
+  },
   "3DCharades": {
     "Room": {
       "RoomId":3,
