@@ -2124,6 +2124,86 @@
       }
     ]
   },
+  "AresturantRPG": {
+    "Room": {
+      "RoomId":9272,
+      "Name":"AresturantRPG",
+      "Description":"fancy resturant",
+      "CreatorPlayerId":1,
+      "ImageName":"","State":0,
+      "Accessibility":1,
+      "SupportsLevelVoting":false,
+      "IsAGRoom":false,
+      "CloningAllowed":false,
+      "SupportsScreens":true,
+      "SupportsWalkVR":true,
+      "SupportsTeleportVR":true
+    },
+    "Scenes": [
+      {
+        "RoomSceneId":1,
+        "RoomId":9272,
+        "RoomSceneLocationId":"9932f88f-3929-43a0-a012-a40b5128e346",
+        "Name":"Home",
+        "IsSandbox":true,
+        "DataBlobName":"Tj1USZp5fEuVFecFDX2yCQ.room",
+        "MaxPlayers":40,
+        "CanMatchmakeInto":true,
+        "DataModifiedAt":"2018-01-23T14:28:19.848605Z"
+      }
+    ],
+    "CoOwners":[29869076],
+    "Hosts":[],
+    "CheerCount":61,
+    "FavoriteCount":22,
+    "VisitCount":2286,
+    "Tags": [
+      {
+        "Tag":"rro",
+        "Type":2
+      }
+    ]
+  },
+  "monokuma": {
+    "Room": {
+      "RoomId":9898,
+      "Name":"monokuma",
+      "Description":"danganrompa class trial",
+      "CreatorPlayerId":1,
+      "ImageName":"Activitymonokuma.jpg",
+      "Accessibility":1,
+      "SupportsLevelVoting":false,
+      "IsAGRoom":false,
+      "CloningAllowed":false,
+      "SupportsScreens":true,
+      "SupportsWalkVR":true,
+      "SupportsTeleportVR":true
+    },
+    "Scenes": [
+      {
+        "RoomSceneId":1,
+        "RoomId":9898,
+        "RoomSceneLocationId":"9932f88f-3929-43a0-a012-a40b5128e346",
+        "Name":"Home",
+        "IsSandbox":true,
+        "DataBlobName":"lbGk6t2ln0SkSOCRy1A6LA.room",
+        "MaxPlayers":40,
+        "CanMatchmakeInto":true,
+        "DataModifiedAt":"2018-05-11T21:44:46.824824Z"
+      }
+    ],
+    "CoOwners":[29869076],
+    "Hosts":[],
+    "CheerCount":33,
+    "FavoriteCount":36,
+    "VisitCount":1008,
+    "Tags": [
+      {
+        "Tag":"rro",
+        "Type":2
+      }
+    ]
+  },
   "3DCharades": {
     "Room": {
       "RoomId":3,
