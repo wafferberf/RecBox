@@ -2204,6 +2204,46 @@
       }
     ]
   },
+  "HardcoreParkourBETA": {
+    "Room": {
+      "RoomId":92728,
+      "Name":"HardcoreParkourBETA",
+      "Description":"Basically mirrors edge.    ~Lgzr",
+      "CreatorPlayerId":1,
+      "ImageName":"ActivityHardcoreParkourBETA.jpg",
+      "Accessibility":1,
+      "SupportsLevelVoting":false,
+      "IsAGRoom":false,
+      "CloningAllowed":false,
+      "SupportsScreens":true,
+      "SupportsWalkVR":true,
+      "SupportsTeleportVR":true
+    },
+    "Scenes": [
+      {
+        "RoomSceneId":1,
+        "RoomId":92728,
+        "RoomSceneLocationId":"6d5eea4b-f069-4ed0-9916-0e2f07df0d03",
+        "Name":"Home",
+        "IsSandbox":true,
+        "DataBlobName":"1392520e27db4a02b07f0973bb466b64.room"",
+        "MaxPlayers":20,
+        "CanMatchmakeInto":true,
+        "DataModifiedAt":"2018-10-31T00:33:19.1606315Z"
+      }
+    ],
+    "CoOwners":[29869076],
+    "Hosts":[],
+    "CheerCount":381,
+    "FavoriteCount":636,
+    "VisitCount":23473,
+    "Tags": [
+      {
+        "Tag":"rro",
+        "Type":2
+      }
+    ]
+  },
   "3DCharades": {
     "Room": {
       "RoomId":3,
