@@ -2244,6 +2244,46 @@
       }
     ]
   },
+  "KINGoftheCHILL": {
+    "Room": {
+      "RoomId":62949,
+      "Name":"KINGoftheCHILL",
+      "Description":"Maker Room",
+      "CreatorPlayerId":1,
+      "ImageName":"ActivityKINGoftheCHILL.jpg",
+      "Accessibility":1,
+      "SupportsLevelVoting":false,
+      "IsAGRoom":false,
+      "CloningAllowed":false,
+      "SupportsScreens":true,
+      "SupportsWalkVR":true,
+      "SupportsTeleportVR":true
+    },
+    "Scenes": [
+      {
+        "RoomSceneId":1,
+        "RoomId":62949,
+        "RoomSceneLocationId":"a75f7547-79eb-47c6-8986-6767abcb4f92",
+        "Name":"Home",
+        "IsSandbox":true,
+        "DataBlobName":"oNKXxUpl4EeqyVmMPMEfQg.room",
+        "MaxPlayers":20,
+        "CanMatchmakeInto":true,
+        "DataModifiedAt":"2018-05-25T11:14:02.1866953Z"
+      }
+    ],
+    "CoOwners":[29869076],
+    "Hosts":[],
+    "CheerCount":7,
+    "FavoriteCount":11,
+    "VisitCount":400,
+    "Tags": [
+      {
+        "Tag":"rro",
+        "Type":2
+      }
+    ]
+  },
   "3DCharades": {
     "Room": {
       "RoomId":3,
