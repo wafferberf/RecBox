@@ -950,7 +950,7 @@
     {
       "PurchasableItemId":704,
       "Type":0,
-      "IsFeatured":false,
+      "IsFeatured":true,
       "Prices": [
         {
           "CurrencyType":2,
@@ -977,7 +977,7 @@
     {
       "PurchasableItemId":707,
       "Type":0,
-      "IsFeatured":false,
+      "IsFeatured":true,
       "Prices": [
         {
           "CurrencyType":2,
@@ -1004,7 +1004,7 @@
     {
       "PurchasableItemId":706,
       "Type":0,
-      "IsFeatured":false,
+      "IsFeatured":true,
       "Prices": [
         {
           "CurrencyType":2,
@@ -1031,7 +1031,7 @@
     {
       "PurchasableItemId":708,
       "Type":0,
-      "IsFeatured":false,
+      "IsFeatured":true,
       "Prices": [
         {
           "CurrencyType":2,
@@ -1058,7 +1058,7 @@
     {
       "PurchasableItemId":705,
       "Type":0,
-      "IsFeatured":false,
+      "IsFeatured":true,
       "Prices": [
         {
           "CurrencyType":2,
@@ -1085,7 +1085,7 @@
     {
       "PurchasableItemId":697,
       "Type":0,
-      "IsFeatured":false,
+      "IsFeatured":true,
       "Prices": [
         {
           "CurrencyType":2,
@@ -1112,7 +1112,7 @@
     {
       "PurchasableItemId":479,
       "Type":0,
-      "IsFeatured":false,
+      "IsFeatured":true,
       "Prices": [
         {
           "CurrencyType":2,
@@ -1139,7 +1139,7 @@
     {
       "PurchasableItemId":480,
       "Type":0,
-      "IsFeatured":false,
+      "IsFeatured":true,
       "Prices": [
         {
           "CurrencyType":2,
@@ -1166,7 +1166,7 @@
     {
       "PurchasableItemId":481,
       "Type":0,
-      "IsFeatured":false,
+      "IsFeatured":true,
       "Prices": [
         {
           "CurrencyType":2,
@@ -1193,7 +1193,7 @@
     {
       "PurchasableItemId":575,
       "Type":0,
-      "IsFeatured":false,
+      "IsFeatured":true,
       "Prices": [
         {
           "CurrencyType":2,
@@ -1220,7 +1220,7 @@
     {
       "PurchasableItemId":785,
       "Type":0,
-      "IsFeatured":false,
+      "IsFeatured":true,
       "Prices": [
         {
           "CurrencyType":2,
@@ -1247,7 +1247,7 @@
     {
       "PurchasableItemId":443,
       "Type":0,
-      "IsFeatured":false,
+      "IsFeatured":true,
       "Prices": [
         {
           "CurrencyType":2,
@@ -4595,7 +4595,7 @@
     {
       "PurchasableItemId":1157,
       "Type":0,
-      "IsFeatured":true,
+      "IsFeatured":false,
       "Prices": [
         {
           "CurrencyType":2,
