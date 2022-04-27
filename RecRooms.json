@@ -2284,6 +2284,46 @@
       }
     ]
   },
+  "SuperRecBros": {
+    "Room": {
+      "RoomId":151483,
+      "Name":"SuperRecBros",
+      "Description":"Save The Princess!",
+      "CreatorPlayerId":1,
+      "ImageName":"ActivitySuperRecBros.jpg",
+      "Accessibility":1,
+      "SupportsLevelVoting":false,
+      "IsAGRoom":false,
+      "CloningAllowed":false,
+      "SupportsScreens":true,
+      "SupportsWalkVR":true,
+      "SupportsTeleportVR":true
+    },
+    "Scenes": [
+      {
+        "RoomSceneId":1,
+        "RoomId":151483,
+        "RoomSceneLocationId":"a75f7547-79eb-47c6-8986-6767abcb4f92",
+        "Name":"Home",
+        "IsSandbox":true,
+        "DataBlobName":"E-qvkISWZkq957OOPqfEsQ.room",
+        "MaxPlayers":20,
+        "CanMatchmakeInto":true,
+        "DataModifiedAt":"2018-09-10T23:35:33.6923086Z"
+      }
+    ],
+    "CoOwners":[29869076],
+    "Hosts":[],
+    "CheerCount":16,
+    "FavoriteCount":54,
+    "VisitCount":1850,
+    "Tags": [
+      {
+        "Tag":"rro",
+        "Type":2
+      }
+    ]
+  },
   "3DCharades": {
     "Room": {
       "RoomId":3,
