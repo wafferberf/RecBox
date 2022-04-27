@@ -1,12 +1,8 @@
 {
   "StorefrontType":2,
-  "NextUpdate":"2022-04-27T05:00:00-04:00",
+  "NextUpdate":"2022-05-04T05:00:00-04:00",
   "StoreItems": [
-{
-  "StorefrontType":2,
-  "NextUpdate":"2021-07-22T11:38:37+00:00",
-  "StoreItems": [
-     {
+    {
       "PurchasableItemId":704,
       "Type":0,
       "IsFeatured":false,
