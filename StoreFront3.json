@@ -4163,7 +4163,7 @@
     {
       "PurchasableItemId":689,
       "Type":0,
-      "IsFeatured":true,
+      "IsFeatured":false,
       "Prices": [
         {
           "CurrencyType":2,
