@@ -2364,6 +2364,46 @@
       }
     ]
   },
+  "RECR00MSGOTTALENT": {
+    "Room": {
+      "RoomId":24055,
+      "Name":"RECR00MSGOTTALENT",
+      "Description":"Performance Hall",
+      "CreatorPlayerId":1,
+      "ImageName":"","State":0,
+      "Accessibility":1,
+      "SupportsLevelVoting":false,
+      "IsAGRoom":false,
+      "CloningAllowed":false,
+      "SupportsScreens":true,
+      "SupportsWalkVR":true,
+      "SupportsTeleportVR":true
+    },
+    "Scenes": [
+      {
+        "RoomSceneId":1,
+        "RoomId":24055,
+        "RoomSceneLocationId":"9932f88f-3929-43a0-a012-a40b5128e346",
+        "Name":"Home",
+        "IsSandbox":true,
+        "DataBlobName":"NtzL06JcXUmqd3LkEJW-OQ.room",
+        "MaxPlayers":40,
+        "CanMatchmakeInto":true,
+        "DataModifiedAt":"2018-02-21T05:18:12.8623442Z"
+      }
+    ],
+    "CoOwners":[29869076],
+    "Hosts":[],
+    "CheerCount":26,
+    "FavoriteCount":29,
+    "VisitCount":524,
+    "Tags": [
+      {
+        "Tag":"rro",
+        "Type":2
+      }
+    ]
+  },
   "3DCharades": {
     "Room": {
       "RoomId":3,
