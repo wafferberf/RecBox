@@ -2324,6 +2324,46 @@
       }
     ]
   },
+  "littleBigPlanetV1": {
+    "Room": {
+      "RoomId":113702,
+      "Name":"littleBigPlanetV1",
+      "Description":"This the lbp pod verstion 1 beta",
+      "CreatorPlayerId":1,
+      "ImageName":"ActivitylittleBigPlanetV1.jpg",
+      "Accessibility":1,
+      "SupportsLevelVoting":false,
+      "IsAGRoom":false,
+      "CloningAllowed":false,
+      "SupportsScreens":true,
+      "SupportsWalkVR":true,
+      "SupportsTeleportVR":true
+    },
+    "Scenes": [
+      {
+        "RoomSceneId":1,
+        "RoomId":113702,
+        "RoomSceneLocationId":"a75f7547-79eb-47c6-8986-6767abcb4f92",
+        "Name":"Home",
+        "IsSandbox":true,
+        "DataBlobName":"kETCd6DS0k-NbHncb_5Ccw.room",
+        "MaxPlayers":20,
+        "CanMatchmakeInto":true,
+        "DataModifiedAt":"2018-06-27T22:49:37.8587947Z"
+      }
+    ],
+    "CoOwners":[29869076],
+    "Hosts":[],
+    "CheerCount":45,
+    "FavoriteCount":103,
+    "VisitCount":2215,
+    "Tags": [
+      {
+        "Tag":"rro",
+        "Type":2
+      }
+    ]
+  },
   "3DCharades": {
     "Room": {
       "RoomId":3,
