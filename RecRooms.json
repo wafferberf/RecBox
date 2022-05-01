@@ -2404,6 +2404,46 @@
       }
     ]
   },
+  "FarmLandPVP": {
+    "Room": {
+      "RoomId":74097,
+      "Name":"FarmLandPVP",
+      "Description":"Battle PVP on a farm!",
+      "CreatorPlayerId":1,
+      "ImageName":"ActivityFarmLandPVP.jpg",
+      "Accessibility":1,
+      "SupportsLevelVoting":false,
+      "IsAGRoom":false,
+      "CloningAllowed":false,
+      "SupportsScreens":true,
+      "SupportsWalkVR":true,
+      "SupportsTeleportVR":true
+    },
+    "Scenes": [
+      {
+        "RoomSceneId":1,
+        "RoomId":74097,
+        "RoomSceneLocationId":"a75f7547-79eb-47c6-8986-6767abcb4f92",
+        "Name":"Home",
+        "IsSandbox":true,
+        "DataBlobName":"cSZ9cEndzEanhGtoUZr1BQ.room",
+        "MaxPlayers":20,
+        "CanMatchmakeInto":true,
+        "DataModifiedAt":"2018-07-14T22:39:42.9026149Z"
+      }
+    ],
+    "CoOwners":[29869076],
+    "Hosts":[],
+    "CheerCount":664,
+    "FavoriteCount":301,
+    "VisitCount":33776,
+    "Tags": [
+      {
+        "Tag":"rro",
+        "Type":2
+      }
+    ]
+  },
   "3DCharades": {
     "Room": {
       "RoomId":3,
