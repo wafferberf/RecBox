@@ -2605,6 +2605,46 @@
       }
     ]
   },
+  "lunchphoto": {
+    "Room": {
+      "RoomId":137057,
+      "Name":"lunchphoto",
+      "Description":"Recreate the famous picture here",
+      "CreatorPlayerId":1,
+      "ImageName":"Activitylunchphoto.jpg",
+      "Accessibility":1,
+      "SupportsLevelVoting":false,
+      "IsAGRoom":false,
+      "CloningAllowed":false,
+      "SupportsScreens":true,
+      "SupportsWalkVR":true,
+      "SupportsTeleportVR":true
+    },
+    "Scenes": [
+      {
+        "RoomSceneId":1,
+        "RoomId":137057,
+        "RoomSceneLocationId":"a75f7547-79eb-47c6-8986-6767abcb4f92",
+        "Name":"Home",
+        "IsSandbox":true,
+        "DataBlobName":"e2tkhj_i_0WL1zrkyK2NNQ.room",
+        "MaxPlayers":12,
+        "CanMatchmakeInto":true,
+        "DataModifiedAt":"2018-08-28T21:34:55.7892583Z"
+      }
+    ],
+    "CoOwners":[29869076],
+    "Hosts":[],
+    "CheerCount":4,
+    "FavoriteCount":8,
+    "VisitCount":127,
+    "Tags": [
+      {
+        "Tag":"rro",
+        "Type":2
+      }
+    ]
+  },
   "3DCharades": {
     "Room": {
       "RoomId":3,
