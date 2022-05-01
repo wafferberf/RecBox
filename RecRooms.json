@@ -81,6 +81,47 @@
       }
     ]
   },
+    "plinkopark": {
+    "Room": {
+      "RoomId":1635,
+      "Name":"plinkopark",
+      "Description":"Plinko Park",
+      "CreatorPlayerId":1,
+      "ImageName":"Activityplinkopark.jfif",
+      "State":0,
+      "Accessibility":1,
+      "SupportsLevelVoting":false,
+      "IsAGRoom":false,
+      "CloningAllowed":false,
+      "SupportsScreens":true,
+      "SupportsWalkVR":true,
+      "SupportsTeleportVR":true
+    },
+    "Scenes": [
+      {
+        "RoomSceneId":1,
+        "RoomId":4044458,
+        "RoomSceneLocationId":"0a864c86-5a71-4e18-8041-8124e4dc9d98",
+        "Name":"Home",
+        "IsSandbox":true,
+        "DataBlobName":"IJCIv0t-Y06d4UO0I_-bAA.room",
+        "MaxPlayers":15,
+        "CanMatchmakeInto":true,
+        "DataModifiedAt":"2018-05-18T15:04:55.6057125Z"
+      }
+    ],
+    "CoOwners":[29869076],
+    "Hosts":[],
+    "CheerCount":69,
+    "FavoriteCount":70,
+    "VisitCount":1567,
+    "Tags": [
+      {
+        "Tag":"community",
+        "Type":2
+      }
+    ]
+  },
   "WhackAPete": {
     "Room": {
       "RoomId":2365681,
