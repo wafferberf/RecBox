@@ -80,6 +80,47 @@
       }
     ]
   },
+  "coolness459": {
+    "Room": {
+      "RoomId":81523,
+      "Name":"coolness459",
+      "Description":"Performance Hall",
+      "CreatorPlayerId":876634,
+      "ImageName":"Activitycoolness459.png",
+      "State":0,
+      "Accessibility":1,
+      "SupportsLevelVoting":false,
+      "IsAGRoom":false,
+      "CloningAllowed":false,
+      "SupportsScreens":true,
+      "SupportsWalkVR":true,
+      "SupportsTeleportVR":true
+    },
+    "Scenes": [
+      {
+        "RoomSceneId":1,
+        "RoomId":81523,
+        "RoomSceneLocationId":"9932f88f-3929-43a0-a012-a40b5128e346",
+        "Name":"Home",
+        "IsSandbox":true,
+        "DataBlobName":"F6lFWIOCN0ub7rmNHv_Fsg.room",
+        "MaxPlayers":20,
+        "CanMatchmakeInto":true,
+        "DataModifiedAt":"2018-06-23T04:21:34.7740735Z"
+      }
+    ],
+    "CoOwners":[],
+    "Hosts":[29869076],
+    "CheerCount":7,
+    "FavoriteCount":3,
+    "VisitCount":244,
+    "Tags": [
+      {
+        "Tag":"community",
+        "Type":2
+      }
+    ]
+  },
   "Tavern": {
     "Room": {
       "RoomId":1635,
