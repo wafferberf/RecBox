@@ -2525,6 +2525,46 @@
       }
     ]
   },
+  "RoadTrip": {
+    "Room": {
+      "RoomId":43014,
+      "Name":"RoadTrip",
+      "Description":"Republished pre-gizmo motion room, updated with gizmos.  Time to hit the road again!",
+      "CreatorPlayerId":1,
+      "ImageName":"ActivityRoadTrip.jpg",
+      "Accessibility":1,
+      "SupportsLevelVoting":false,
+      "IsAGRoom":false,
+      "CloningAllowed":false,
+      "SupportsScreens":true,
+      "SupportsWalkVR":true,
+      "SupportsTeleportVR":true
+    },
+    "Scenes": [
+      {
+        "RoomSceneId":1,
+        "RoomId":43014,
+        "RoomSceneLocationId":"f6f7256c-e438-4299-b99e-d20bef8cf7e0",
+        "Name":"Home",
+        "IsSandbox":true,
+        "DataBlobName":"M_-barF_GkCoyDMTGVImwA.room",
+        "MaxPlayers":8,
+        "CanMatchmakeInto":true,
+        "DataModifiedAt":"2018-09-14T23:32:10.2978747Z"
+      }
+    ],
+    "CoOwners":[29869076],
+    "Hosts":[],
+    "CheerCount":570,
+    "FavoriteCount":885,
+    "VisitCount":18881,
+    "Tags": [
+      {
+        "Tag":"rro",
+        "Type":2
+      }
+    ]
+  },
   "3DCharades": {
     "Room": {
       "RoomId":3,
