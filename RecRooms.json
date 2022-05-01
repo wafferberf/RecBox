@@ -2485,6 +2485,46 @@
       }
     ]
   },
+  "TacoLoft": {
+    "Room": {
+      "RoomId":6447,
+      "Name":"TacoLoft",
+      "Description":"A classic featured room built years ago before the maker pen even had rotate!  Popular for its aesthetics in its time. (Created: 2017)",
+      "CreatorPlayerId":1,
+      "ImageName":"ActivityTacoLoft.jpg",
+      "Accessibility":1,
+      "SupportsLevelVoting":false,
+      "IsAGRoom":false,
+      "CloningAllowed":false,
+      "SupportsScreens":true,
+      "SupportsWalkVR":true,
+      "SupportsTeleportVR":true
+    },
+    "Scenes": [
+      {
+        "RoomSceneId":1,
+        "RoomId":6447,
+        "RoomSceneLocationId":"a067557f-ca32-43e6-b6e5-daaec60b4f5a",
+        "Name":"Home",
+        "IsSandbox":true,
+        "DataBlobName":"7f8bfa7ff764464eba8aa592854514c6.room",
+        "MaxPlayers":20,
+        "CanMatchmakeInto":true,
+        "DataModifiedAt":"2018-06-01T03:13:27.9667027Z"
+      }
+    ],
+    "CoOwners":[29869076],
+    "Hosts":[],
+    "CheerCount":867,
+    "FavoriteCount":1137,
+    "VisitCount":20221,
+    "Tags": [
+      {
+        "Tag":"rro",
+        "Type":2
+      }
+    ]
+  },
   "3DCharades": {
     "Room": {
       "RoomId":3,
