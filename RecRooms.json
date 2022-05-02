@@ -2807,6 +2807,46 @@
       }
     ]
   },
+  "ToxiArtStudio": {
+    "Room": {
+      "RoomId":86812,
+      "Name":"ToxiArtStudio",
+      "Description":"Just a room for art and artists, enjoy yourselves and leave a cheer",
+      "CreatorPlayerId":1,
+      "ImageName":"ActivityToxiArtStudio.jpg",
+      "Accessibility":1,
+      "SupportsLevelVoting":false,
+      "IsAGRoom":false,
+      "CloningAllowed":false,
+      "SupportsScreens":true,
+      "SupportsWalkVR":true,
+      "SupportsTeleportVR":true
+    },
+    "Scenes": [
+      {
+        "RoomSceneId":1,
+        "RoomId":86812,
+        "RoomSceneLocationId":"a75f7547-79eb-47c6-8986-6767abcb4f92",
+        "Name":"Home",
+        "IsSandbox":true,
+        "DataBlobName":"aaNhkADXJEKDDj1nlAPOww.room",
+        "MaxPlayers":20,
+        "CanMatchmakeInto":true,
+        "DataModifiedAt":"2018-09-21T22:27:21.7374455Z"
+      }
+    ],
+    "CoOwners":[29869076],
+    "Hosts":[],
+    "CheerCount":492,
+    "FavoriteCount":460,
+    "VisitCount":45705,
+    "Tags": [
+      {
+        "Tag":"rro",
+        "Type":2
+      }
+    ]
+  },
   "3DCharades": {
     "Room": {
       "RoomId":3,
