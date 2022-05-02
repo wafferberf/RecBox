@@ -2847,6 +2847,46 @@
       }
     ]
   },
+  "MassiveBallPit": {
+    "Room": {
+      "RoomId":45953,
+      "Name":"MassiveBallPit",
+      "Description":"Play with some massive balls! Shoot hoops, use the paddles, or even build something with them! Have fun! ",
+      "CreatorPlayerId":1,
+      "ImageName":"ActivityMassiveBallPit.jpg",
+      "Accessibility":1,
+      "SupportsLevelVoting":false,
+      "IsAGRoom":false,
+      "CloningAllowed":false,
+      "SupportsScreens":true,
+      "SupportsWalkVR":true,
+      "SupportsTeleportVR":true
+    },
+    "Scenes": [
+      {
+        "RoomSceneId":1,
+        "RoomId":45953,
+        "RoomSceneLocationId":"a75f7547-79eb-47c6-8986-6767abcb4f92",
+        "Name":"Home",
+        "IsSandbox":true,
+        "DataBlobName":"6wH03NnbN0OVLW4DWzBdxw.room",
+        "MaxPlayers":20,
+        "CanMatchmakeInto":true,
+        "DataModifiedAt":"2018-08-31T05:57:42.3384895Z"
+      }
+    ],
+    "CoOwners":[29869076],
+    "Hosts":[],
+    "CheerCount":58,
+    "FavoriteCount":61,
+    "VisitCount":3185,
+    "Tags": [
+      {
+        "Tag":"rro",
+        "Type":2
+      }
+    ]
+  },
   "3DCharades": {
     "Room": {
       "RoomId":3,
