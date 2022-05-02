@@ -2887,6 +2887,46 @@
       }
     ]
   },
+  "SwordArtOnlineBETA": {
+    "Room": {
+      "RoomId":60092,
+      "Name":"SwordArtOnlineBETA",
+      "Description":"MMORPG Thanks: cool D Lgzr, and Sword Duck",
+      "CreatorPlayerId":1,
+      "ImageName":"ActivitySwordArtOnlineBETA.jpg",
+      "Accessibility":1,
+      "SupportsLevelVoting":false,
+      "IsAGRoom":false,
+      "CloningAllowed":false,
+      "SupportsScreens":true,
+      "SupportsWalkVR":true,
+      "SupportsTeleportVR":true
+    },
+    "Scenes": [
+      {
+        "RoomSceneId":1,
+        "RoomId":60092,
+        "RoomSceneLocationId":"615cf04998b94750b8e4816ea1562b0a.room",
+        "Name":"Home",
+        "IsSandbox":true,
+        "DataBlobName":"W9-oqLZJIkmX_CtFMo_f6g.room",
+        "MaxPlayers":20,
+        "CanMatchmakeInto":true,
+        "DataModifiedAt":"2018-07-14T02:29:28.4789659Z"
+      }
+    ],
+    "CoOwners":[29869076],
+    "Hosts":[],
+    "CheerCount":2115,
+    "FavoriteCount":203,
+    "VisitCount":6459,
+    "Tags": [
+      {
+        "Tag":"rro",
+        "Type":2
+      }
+    ]
+  },
   "3DCharades": {
     "Room": {
       "RoomId":3,
