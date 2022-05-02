@@ -2767,6 +2767,46 @@
       }
     ]
   },
+  "CityRP": {
+    "Room": {
+      "RoomId":61440,
+      "Name":"CityRP",
+      "Description":"beta 2.0",
+      "CreatorPlayerId":1,
+      "ImageName":"ActivityCityRP.jpg",
+      "Accessibility":1,
+      "SupportsLevelVoting":false,
+      "IsAGRoom":false,
+      "CloningAllowed":false,
+      "SupportsScreens":true,
+      "SupportsWalkVR":true,
+      "SupportsTeleportVR":true
+    },
+    "Scenes": [
+      {
+        "RoomSceneId":1,
+        "RoomId":61440,
+        "RoomSceneLocationId":"a75f7547-79eb-47c6-8986-6767abcb4f92",
+        "Name":"Home",
+        "IsSandbox":true,
+        "DataBlobName":"hjKRlMDD0EWLVO0kahMwmA.room",
+        "MaxPlayers":10,
+        "CanMatchmakeInto":true,
+        "DataModifiedAt":"2018-06-27T22:15:33.1750993Z"
+      }
+    ],
+    "CoOwners":[29869076],
+    "Hosts":[],
+    "CheerCount":10,
+    "FavoriteCount":18,
+    "VisitCount":486,
+    "Tags": [
+      {
+        "Tag":"rro",
+        "Type":2
+      }
+    ]
+  },
   "3DCharades": {
     "Room": {
       "RoomId":3,
