@@ -325,6 +325,50 @@
       }
     ]
   },
+    "CircuitDemo": {
+    "Room": {
+      "RoomId":21127,
+      "Name":"CircuitDemo",
+      "Description":"How to Circuit",
+      "CreatorPlayerId":1,
+      "ImageName":"ActivityWhackAPete.jpg",
+      "Accessibility":1,
+      "SupportsLevelVoting":false,
+      "IsAGRoom":false,
+      "CloningAllowed":false,
+      "SupportsScreens":true,
+      "SupportsWalkVR":true,
+      "SupportsTeleportVR":true
+    },
+    "Scenes": [
+      {
+        "RoomSceneId":1,
+        "RoomId":21127,
+        "RoomSceneLocationId":"0a864c86-5a71-4e18-8041-8124e4dc9d98",
+        "Name":"Home",
+        "IsSandbox":true,
+        "DataBlobName":"2TOMfvGJSk62YYriAIhAhQ.room",
+        "MaxPlayers":12,
+        "CanMatchmakeInto":true,
+        "DataModifiedAt":"2018-08-04T22:26:38.2191033Z"
+      }
+    ],
+    "CoOwners":[29869076],
+    "Hosts":[],
+    "CheerCount":73,
+    "FavoriteCount":96,
+    "VisitCount":1198,
+    "Tags": [
+      {
+        "Tag":"community",
+        "Type":2
+      },
+      {
+        "Tag":"circuits",
+        "Type":2
+      }
+    ]
+  },
   "TheOfficePVP": {
     "Room": {
       "RoomId":2365681,
