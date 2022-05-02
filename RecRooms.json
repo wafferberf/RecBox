@@ -2686,6 +2686,46 @@
       }
     ]
   },
+  "MurderHouse": {
+    "Room": {
+      "RoomId":61771,
+      "Name":"MurderHouse",
+      "Description":"Hide and Seek with a scare!",
+      "CreatorPlayerId":1,
+      "ImageName":"ActivityMurderHouse.jpg",
+      "Accessibility":1,
+      "SupportsLevelVoting":false,
+      "IsAGRoom":false,
+      "CloningAllowed":false,
+      "SupportsScreens":true,
+      "SupportsWalkVR":true,
+      "SupportsTeleportVR":true
+    },
+    "Scenes": [
+      {
+        "RoomSceneId":1,
+        "RoomId":61771,
+        "RoomSceneLocationId":"58763055-2dfb-4814-80b8-16fac5c85709",
+        "Name":"Home",
+        "IsSandbox":true,
+        "DataBlobName":"NDjtbSWUS0iZ-vxu-8y2Pw.room",
+        "MaxPlayers":8,
+        "CanMatchmakeInto":true,
+        "DataModifiedAt":"2018-09-16T20:38:35.7331979Z"
+      }
+    ],
+    "CoOwners":[29869076],
+    "Hosts":[],
+    "CheerCount":567,
+    "FavoriteCount":1139,
+    "VisitCount":54523,
+    "Tags": [
+      {
+        "Tag":"community",
+        "Type":2
+      }
+    ]
+  },
   "3DCharades": {
     "Room": {
       "RoomId":3,
