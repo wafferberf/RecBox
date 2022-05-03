@@ -5,7 +5,7 @@
       "69420": [
          {
             "Id":9008,
-            "AvatarItemDesc":"c87239ca-a255-4b13-bbc5-1b38236fb4cc,,,",
+            "AvatarItemDesc":"",
             "ConsumableItemDesc":"",
             "EquipmentPrefabName":"",
             "EquipmentModificationGuid":"",
@@ -14,7 +14,7 @@
             "Xp":0,
             "Level":0,
             "GiftRarity":0,
-            "Message":"Here is a gift for all of you! Have a fun day -Lucas",
+            "Message":"Welcome to Rec Box!",
             "Context":2
          }
       ]
