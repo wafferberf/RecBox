@@ -2637,6 +2637,46 @@
       }
     ]
   },
+  "coaster": {
+    "Room": {
+      "RoomId":166316,
+      "Name":"coaster",
+      "Description":"Lost limbs will not be replaced",
+      "CreatorPlayerId":1,
+      "ImageName":"Activitycoaster.jpg",
+      "Accessibility":1,
+      "SupportsLevelVoting":false,
+      "IsAGRoom":false,
+      "CloningAllowed":false,
+      "SupportsScreens":true,
+      "SupportsWalkVR":true,
+      "SupportsTeleportVR":true
+    },
+    "Scenes": [
+      {
+        "RoomSceneId":1,
+        "RoomId":166316,
+        "RoomSceneLocationId":"a75f7547-79eb-47c6-8986-6767abcb4f92",
+        "Name":"Home",
+        "IsSandbox":true,
+        "DataBlobName":"WTOZUqA5h0uDXnm-Z3tHQw.room",
+        "MaxPlayers":4,
+        "CanMatchmakeInto":true,
+        "DataModifiedAt":"2018-08-31T21:54:20.7329422Z"
+      }
+    ],
+    "CoOwners":[29869076],
+    "Hosts":[],
+    "CheerCount":726,
+    "FavoriteCount":1406,
+    "VisitCount":35658,
+    "Tags": [
+      {
+        "Tag":"rro",
+        "Type":2
+      }
+    ]
+  },
   "KINGoftheCHILL": {
     "Room": {
       "RoomId":62949,
