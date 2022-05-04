@@ -1,10 +1,10 @@
 {
-	"Id":1,
-	"DisplayName":"Developer",
-	"Username":"Developer",
-	"Level":64,
-	"XP":64,
-	"Developer":true,
-	"IsBooster":true,
-    "BootMultiplier":9}
+  "Id":1,
+  "DisplayName":"Developer",
+  "Username":"Developer",
+  "Level":64,
+  "XP":64,
+  "Developer":true,
+  "IsBooster":true,
+  "BootMultiplier":9
 }
