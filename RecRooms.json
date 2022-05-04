@@ -379,7 +379,7 @@
       "Name":"CircuitDemo",
       "Description":"How to Circuit",
       "CreatorPlayerId":1,
-      "ImageName":"DefaultRoomImage.jpg",
+      "ImageName":"",
       "Accessibility":1,
       "SupportsLevelVoting":false,
       "IsAGRoom":false,
@@ -614,6 +614,54 @@
       {
         "Tag":"community",
         "Type":2
+      }
+    ]
+  },
+    "KameHouse": {
+    "Room": {
+      "RoomId":57034,
+      "Name":"KameHouse",
+      "Description":"Come and enjoy the peaceful tranquillity of the Kame House. This is a close replica to the original from the dragonball saga.",
+      "CreatorPlayerId":1,
+      "ImageName":"ActivityKameHouse.jpg",
+      "Accessibility":1,
+      "SupportsLevelVoting":false,
+      "IsAGRoom":false,
+      "CloningAllowed":false,
+      "SupportsScreens":true,
+      "SupportsWalkVR":true,
+      "SupportsTeleportVR":true
+    },
+    "Scenes": [
+      {
+        "RoomSceneId":1,
+        "RoomId":57034,
+        "RoomSceneLocationId":"a75f7547-79eb-47c6-8986-6767abcb4f92",
+        "Name":"Home",
+        "IsSandbox":true,
+        "DataBlobName":"Cm8pwiRZfUmKnn2zbEA3mw.room",
+        "MaxPlayers":10,
+        "CanMatchmakeInto":true,
+        "DataModifiedAt":"2018-01-26T01:15:53.2588311Z"
+      }
+    ],
+    "CoOwners":[29869076],
+    "Hosts":[],
+    "CheerCount":66,
+    "FavoriteCount":136,
+    "VisitCount":6654,
+    "Tags": [
+      {
+        "Tag":"community",
+        "Type":2
+      },
+      {
+        "Tag":"hangout",
+        "Type":0
+      },
+      {
+        "Tag":"fandom",
+        "Type":0
       }
     ]
   },
