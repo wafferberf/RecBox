@@ -2028,6 +2028,46 @@
       }
     ]
   },
+  "Suburbian": {
+    "Room": {
+      "RoomId":4603,
+      "Name":"Suburbian",
+      "Description":"Realistic suburban house.",
+      "CreatorPlayerId":1,
+      "ImageName":"ActivitySuburbian.jpg",
+      "Accessibility":1,
+      "SupportsLevelVoting":false,
+      "IsAGRoom":false,
+      "CloningAllowed":false,
+      "SupportsScreens":true,
+      "SupportsWalkVR":true,
+      "SupportsTeleportVR":true
+    },
+    "Scenes": [
+      {
+        "RoomSceneId":1,
+        "RoomId":20521,
+        "RoomSceneLocationId":"0a864c86-5a71-4e18-8041-8124e4dc9d98",
+        "Name":"Home",
+        "IsSandbox":true,
+        "DataBlobName":"PAWFsS1K80OV7iZyvrk4Dw.room",
+        "MaxPlayers":20,
+        "CanMatchmakeInto":true,
+        "DataModifiedAt":"2018-07-19T22:04:06.718724Z"
+      }
+    ],
+    "CoOwners":[29869076],
+    "Hosts":[],
+    "CheerCount":582,
+    "FavoriteCount":879,
+    "VisitCount":30560,
+    "Tags": [
+      {
+        "Tag":"rro",
+        "Type":2
+      }
+    ]
+  },
   "RecAirlines": {
     "Room": {
       "RoomId":42596,
