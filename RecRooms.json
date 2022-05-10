@@ -85,7 +85,7 @@
       "RoomId":190375,
       "Name":"DealOrNoDeal",
       "Description":"The classic game show in Rec Room! Created in August 2018.",
-      "CreatorPlayerId":876634,
+      "CreatorPlayerId":1,
       "ImageName":"ActivityDealOrNoDeal.jpg",
       "Accessibility":1,
       "SupportsLevelVoting":false,
