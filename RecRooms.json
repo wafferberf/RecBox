@@ -3278,6 +3278,46 @@
       }
     ]
   },
+  "CornerStore": {
+    "Room": {
+      "RoomId":7216,
+      "Name":"CornerStore",
+      "Description":"Small store located on a corner. Purchase your goods here.",
+      "CreatorPlayerId":1,
+      "ImageName":"ActivityCornerStore.jpg",
+      "Accessibility":1,
+      "SupportsLevelVoting":false,
+      "IsAGRoom":false,
+      "CloningAllowed":false,
+      "SupportsScreens":true,
+      "SupportsWalkVR":true,
+      "SupportsTeleportVR":true
+    },
+    "Scenes": [
+      {
+        "RoomSceneId":1,
+        "RoomId":7216,
+        "RoomSceneLocationId":"9932f88f-3929-43a0-a012-a40b5128e346",
+        "Name":"Home",
+        "IsSandbox":true,
+        "DataBlobName":"Bwr-UtF-9UOXjPAupC-9kg.room",
+        "MaxPlayers":18,
+        "CanMatchmakeInto":true,
+        "DataModifiedAt":"2018-04-26T18:42:21.9215689Z"
+      }
+    ],
+    "CoOwners":[29869076],
+    "Hosts":[],
+    "CheerCount":138,
+    "FavoriteCount":313,
+    "VisitCount":7368,
+    "Tags": [
+      {
+        "Tag":"rro",
+        "Type":2
+      }
+    ]
+  },
   "3DCharades": {
     "Room": {
       "RoomId":3,
