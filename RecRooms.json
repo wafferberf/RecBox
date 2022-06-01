@@ -4190,43 +4190,6 @@
           "Tag":"rro",
        "Type":2
       },
-        "GHOSTMUSTARD": {
-    "Room": {
-      "RoomId":111417,
-      "Name":"GHOSTMUSTARD",
-      "Description":"Park",
-      "CreatorPlayerId":1,
-      "ImageName":"DefaultRoomImage.jpg",
-      "Accessibility":1,
-      "SupportsLevelVoting":false,
-      "IsAGRoom":false,
-      "CloningAllowed":false,
-      "SupportsScreens":true,
-      "SupportsWalkVR":true,
-      "SupportsTeleportVR":true
-    },
-    "Scenes": [
-      {
-        "RoomSceneId":1,
-        "RoomId":111417,
-        "RoomSceneLocationId":"0a864c86-5a71-4e18-8041-8124e4dc9d98",
-        "Name":"Home",
-        "IsSandbox":true,
-        "DataBlobName":"RvaviJ8zH0u1x9LslPq2ng.room",
-        "MaxPlayers":40,
-        "CanMatchmakeInto":true,
-        "DataModifiedAt":"2018-06-23T23:27:29.0796706Z"
-      }
-    ],
-    "CoOwners":[29869076],
-    "Hosts":[],
-    "CheerCount":151,
-    "FavoriteCount":390,
-    "VisitCount":30045,
-    "Tags": [
-      {
-        "Tag":"community",
-        "Type":2
       }
     ]
   }
