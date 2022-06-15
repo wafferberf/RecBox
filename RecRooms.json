@@ -1548,6 +1548,46 @@
       }
     ]
   },
+  "HotAirBalloon": {
+    "Room": {
+      "RoomId":108508,
+      "Name":"HotAirBalloon",
+      "Description":"Place the candle inside the fire to make the hot air balloon soar over the lake.",
+      "CreatorPlayerId":1,
+      "ImageName":"ActivityHotAirBalloon.jpg",
+      "Accessibility":1,
+      "SupportsLevelVoting":false,
+      "IsAGRoom":false,
+      "CloningAllowed":false,
+      "SupportsScreens":true,
+      "SupportsWalkVR":true,
+      "SupportsTeleportVR":true
+    },
+    "Scenes": [
+      {
+        "RoomSceneId":1,
+        "RoomId":108508,
+        "RoomSceneLocationId":"f6f7256c-e438-4299-b99e-d20bef8cf7e0",
+        "Name":"Home",
+        "IsSandbox":true,
+        "DataBlobName":"20q9TfUPrUqEpxw0y2eJXQ.room",
+        "MaxPlayers":20,
+        "CanMatchmakeInto":true,
+        "DataModifiedAt":"2018-06-21T22:27:51.7409419Z"
+      }
+    ],
+    "CoOwners":[29869076],
+    "Hosts":[29869076],
+    "CheerCount":18,
+    "FavoriteCount":30,
+    "VisitCount":723,
+    "Tags": [
+      {
+        "Tag":"community",
+        "Type":2
+      }
+    ]
+  },
   "GLaDOSfight": {
     "Room": {
       "RoomId":2365681,
