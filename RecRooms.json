@@ -3404,7 +3404,7 @@
       "RoomId":14242,
       "Name":"RoyalPalace",
       "Description":"A royal palace for the royal family. Find the missing map if you dare. Take good care of the Royal Weapons.",
-      "CreatorPlayerId":876634,
+      "CreatorPlayerId":1,
       "ImageName":"ActivityRoyalPalace.jpg",
       "Accessibility":1,
       "SupportsLevelVoting":false,
@@ -3432,6 +3432,46 @@
     "CheerCount":271,
     "FavoriteCount":395,
     "VisitCount":10041,
+    "Tags": [
+      {
+        "Tag":"community",
+        "Type":2
+      }
+    ]
+  },
+  "TF2FORT": {
+    "Room": {
+      "RoomId":44393,
+      "Name":"TF2FORT",
+      "Description":"2Fort",
+      "CreatorPlayerId":1,
+      "ImageName":"ActivityTF2FORT.jpg",
+      "Accessibility":1,
+      "SupportsLevelVoting":false,
+      "IsAGRoom":false,
+      "CloningAllowed":false,
+      "SupportsScreens":true,
+      "SupportsWalkVR":true,
+      "SupportsTeleportVR":true
+    },
+    "Scenes": [
+      {
+        "RoomSceneId":1,
+        "RoomId":44393,
+        "RoomSceneLocationId":"a75f7547-79eb-47c6-8986-6767abcb4f92",
+        "Name":"Home",
+        "IsSandbox":true,
+        "DataBlobName":"yNMT66WnB0eH80mmtl6cGA.room",
+        "MaxPlayers":20,
+        "CanMatchmakeInto":true,
+        "DataModifiedAt":"2018-09-27T00:41:18.8507822Z"
+      }
+    ],
+    "CoOwners":[],
+    "Hosts":[29869076],
+    "CheerCount":15,
+    "FavoriteCount":42,
+    "VisitCount":759,
     "Tags": [
       {
         "Tag":"community",
