@@ -3399,6 +3399,46 @@
       }
     ]
   },
+  "RoyalPalace": {
+    "Room": {
+      "RoomId":14242,
+      "Name":"RoyalPalace",
+      "Description":"A royal palace for the royal family. Find the missing map if you dare. Take good care of the Royal Weapons.",
+      "CreatorPlayerId":876634,
+      "ImageName":"ActivityRoyalPalace.jpg",
+      "Accessibility":1,
+      "SupportsLevelVoting":false,
+      "IsAGRoom":false,
+      "CloningAllowed":false,
+      "SupportsScreens":true,
+      "SupportsWalkVR":true,
+      "SupportsTeleportVR":true
+    },
+    "Scenes": [
+      {
+        "RoomSceneId":1,
+        "RoomId":14242,
+        "RoomSceneLocationId":"a067557f-ca32-43e6-b6e5-daaec60b4f5a",
+        "Name":"Home",
+        "IsSandbox":true,
+        "DataBlobName":"vpJzobq31EWi-tHT7Go7AA.room",
+        "MaxPlayers":12,
+        "CanMatchmakeInto":true,
+        "DataModifiedAt":"2018-02-10T19:52:34.8198985Z"
+      }
+    ],
+    "CoOwners":[],
+    "Hosts":[29869076],
+    "CheerCount":271,
+    "FavoriteCount":395,
+    "VisitCount":10041,
+    "Tags": [
+      {
+        "Tag":"community",
+        "Type":2
+      }
+    ]
+  },
   "3DCharades": {
     "Room": {
       "RoomId":3,
