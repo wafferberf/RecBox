@@ -1,0 +1,10 @@
+{
+  "Id":1234567890,
+  "DisplayName":"Test",
+  "Username":"Test",
+  "Level":30,
+  "XP":100,
+  "Developer":false,
+  "IsBooster":false,
+  "BootMultiplier":0
+}
