@@ -2838,6 +2838,46 @@
       }
     ]
   },
+  "TimbermanHouseD": {
+    "Room": {
+      "RoomId":65054,
+      "Name":"TimbermanHouseD",
+      "Description":"Park",
+      "CreatorPlayerId":1,
+      "ImageName":"TimbermanHouseD.jpg",
+      "Accessibility":1,
+      "SupportsLevelVoting":false,
+      "IsAGRoom":false,
+      "CloningAllowed":false,
+      "SupportsScreens":true,
+      "SupportsWalkVR":true,
+      "SupportsTeleportVR":true
+    },
+    "Scenes": [
+      {
+        "RoomSceneId":1,
+        "RoomId":65054,
+        "RoomSceneLocationId":"0a864c86-5a71-4e18-8041-8124e4dc9d98",
+        "Name":"Home",
+        "IsSandbox":true,
+        "DataBlobName":"IVeAAw9pSkeD1QUmhs0AKQ.room",
+        "MaxPlayers":8,
+        "CanMatchmakeInto":true,
+        "DataModifiedAt":"2018-05-17T14:53:45.6858662Z"
+      }
+    ],
+    "CoOwners":[29869076],
+    "Hosts":[],
+    "CheerCount":6,
+    "FavoriteCount":4,
+    "VisitCount":95,
+    "Tags": [
+      {
+        "Tag":"community",
+        "Type":2
+      }
+    ]
+  },
   "SuperRecBros": {
     "Room": {
       "RoomId":151483,
