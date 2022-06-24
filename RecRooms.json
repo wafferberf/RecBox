@@ -3519,6 +3519,58 @@
       }
     ]
   },
+  "ErisBowlingCenter": {
+    "Room": {
+      "RoomId":84792,
+      "Name":"ErisBowlingCenter",
+      "Description":"Working Bowling!",
+      "CreatorPlayerId":1,
+      "ImageName":"ActivityErisBowlingCenter.jpg",
+      "Accessibility":1,
+      "SupportsLevelVoting":false,
+      "IsAGRoom":false,
+      "CloningAllowed":false,
+      "SupportsScreens":true,
+      "SupportsWalkVR":true,
+      "SupportsTeleportVR":true
+    },
+    "Scenes": [
+      {
+        "RoomSceneId":1,
+        "RoomId":84792,
+        "RoomSceneLocationId":"a75f7547-79eb-47c6-8986-6767abcb4f92",
+        "Name":"Home",
+        "IsSandbox":true,
+        "DataBlobName":"OCF0GNRuPU269FMHbPxEBw.room",
+        "MaxPlayers":20,
+        "CanMatchmakeInto":true,
+        "DataModifiedAt":"2018-09-13T15:04:34.0903651Z"
+      }
+    ],
+    "CoOwners":[29869076],
+    "Hosts":[],
+    "CheerCount":128,
+    "FavoriteCount":193,
+    "VisitCount":7273,
+    "Tags": [
+      {
+        "Tag":"screen",
+        "Type":2
+      },
+      {
+        "Tag":"walkvr",
+        "Type":2
+      },
+      {
+        "Tag":"teleportvr",
+        "Type":2
+      },
+      {
+        "Tag":"pickup",
+        "Type":2
+      }
+    ]
+  },
   "3DCharades": {
     "Room": {
       "RoomId":3,
