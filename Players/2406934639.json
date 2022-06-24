@@ -1,1 +1,10 @@
-{"Id":1,"DisplayName":"Patrick Bateman","Username":"Majed","Level":30,"XP":2116721,"Developer":false,"IsBooster":true,"BootMultiplier":9}
+{
+  "Id":1,
+  "DisplayName":"Patrick Bateman",
+  "Username":"Majed",
+  "Level":30,
+  "XP":100,
+  "Developer":false,
+  "IsBooster":true,
+  "BootMultiplier":9
+}
