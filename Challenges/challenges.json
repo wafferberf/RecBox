@@ -5,7 +5,7 @@
       "startAt":"2021-07-17T08:24:38+00:00",
       "endAt":"2021-07-25T08:24:38+00:00",
       "serverTime":"2021-07-17T08:24:38+00:00",
-      "challenges":[
+      "challenges": [
          {
             "ChallengeId":142,
             "Name":"CompleteCCC",
