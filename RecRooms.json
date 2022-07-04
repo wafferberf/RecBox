@@ -1,4 +1,3 @@
-
 {
   "ChickenInABiscuit": {
     "Room": {
@@ -3567,6 +3566,55 @@
       },
       {
         "Tag":"pickup",
+        "Type":2
+      }
+    ]
+  },
+  "Test": {
+    "Room": {
+      "RoomId":170126,
+      "Name":"Test",
+      "Description":"Test",
+      "CreatorPlayerId":1,
+      "ImageName":"Activity.jpg",
+      "State":0,
+      "Accessibility":1,
+      "SupportsLevelVoting":false,
+      "IsAGRoom":false,
+      "CloningAllowed":false,
+      "SupportsScreens":true,
+      "SupportsWalkVR":true,
+      "SupportsTeleportVR":true
+    },
+    "Scenes": [
+      {
+        "RoomSceneId":1,
+        "RoomId":170126,
+        "RoomSceneLocationId":"cbad71af-0831-44d8-b8ef-69edafa841f6",
+        "Name":"Home",
+        "IsSandbox":true,
+        "DataBlobName":"9z16u5htf5ad2uf1670zt8a67.room",
+        "MaxPlayers":12,
+        "CanMatchmakeInto":true,
+        "DataModifiedAt":"2022-07-01T22:07:59.7070925Z"
+      }
+    ],
+    "CoOwners":[],
+    "Hosts":[29869076],
+    "CheerCount":1,
+    "FavoriteCount":1,
+    "VisitCount":1,
+    "Tags": [
+      {
+        "Tag":"hub",
+        "Type":2
+      },
+      {
+        "Tag":"meetup",
+        "Type":2
+      },
+      {
+        "Tag":"social",
         "Type":2
       }
     ]
