@@ -1,1 +1,11 @@
-{"Id":2346135155,"DisplayName":"andry6702[ZERO]","Username":"andry6702","Level":99,"XP":100,"Developer":true,"IsBooster":true,"BootMultiplier":0}
+{
+  "Id":2346135155,
+  "DisplayName":"andry6702[ZERO]",
+  "Username":"andry6702",
+  "ProfileImage":"PFPRBandry6792.jpg"
+  "Level":99,
+  "XP":100,
+  "Developer":false,
+  "IsBooster":false,
+  "BootMultiplier":0
+}
