@@ -4372,7 +4372,7 @@
       "RoomId": 1,
       "Name": "DormRoom",
       "Description": "Your private room",
-      "CreatorPlayerId": 29869076,
+      "CreatorPlayerId": 1,
       "ImageName": "ActivityDormRoom.png",
       "State": 0,
       "Accessibility": 1,
@@ -4396,8 +4396,8 @@
         "DataModifiedAt": "2021-05-23T16:24:13.1922819+10:00"
       }
     ],
-    "CoOwners": [],
-    "Hosts": [118575410],
+    "CoOwners": [29869076],
+    "Hosts": [],
     "CheerCount": 1,
     "FavoriteCount": 1,
     "VisitCount": 1,
@@ -4437,7 +4437,7 @@
         "DataModifiedAt":"2021-05-23T16:24:13.1922819+10:00"
       }
     ],
-    "CoOwners":[29869076, 2346135155],
+    "CoOwners":[29869076],
     "Hosts":[],
     "CheerCount":1,
     "FavoriteCount":1,
