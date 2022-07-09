@@ -14,7 +14,6 @@
       "SupportsScreens":true,
       "SupportsWalkVR":true,
       "SupportsTeleportVR":true
-    },
     "Scenes": [
       {
         "RoomSceneId":1,
@@ -2843,7 +2842,7 @@
       "Name":"TimbermanHouseD",
       "Description":"Park",
       "CreatorPlayerId":1,
-      "ImageName":"TimbermanHouseD.jpg",
+      "ImageName":"ActivityTimbermanHouseD.jpg",
       "Accessibility":1,
       "SupportsLevelVoting":false,
       "IsAGRoom":false,
