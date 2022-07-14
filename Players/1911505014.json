@@ -1,1 +1,10 @@
-{"Id":1911505014,"DisplayName":"aisdank","Username":"DefaultUsername","Level":30,"XP":100,"Developer":true,"IsBooster":true,"BootMultiplier":0}
+{
+  "Id":1911505014,
+  "DisplayName":"aisdank",
+  "Username":"DefaultUsername",
+  "Level":30,
+  "XP":100,
+  "Developer":false,
+  "IsBooster":true,
+  "BootMultiplier":0
+}
