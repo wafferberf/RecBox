@@ -4188,6 +4188,51 @@
       }
     ]
   },
+  "BetaCrescendo": {
+    "Room": {
+      "RoomId": 27,
+      "Name": "BetaCrescendo",
+      "Description": "New! Formally known as ^GoKartQuest",
+      "CreatorPlayerId":1,
+      "ImageName": "ActivityBetaCrescendo.png",
+      "State": 0,
+      "Accessibility": 1,
+      "SupportsLevelVoting": false,
+      "IsAGRoom": true,
+      "CloningAllowed": false,
+      "SupportsScreens": true,
+      "SupportsWalkVR": true,
+      "SupportsTeleportVR": true
+    },
+    "Scenes": [
+      {
+        "RoomSceneId": 0,
+        "RoomId": 27,
+        "RoomSceneLocationId": "49cb8993-a956-43e2-86f4-1318f279b22a",
+        "Name": "Home",
+        "IsSandbox": false,
+        "DataBlobName": "",
+        "MaxPlayers": 20,
+        "CanMatchmakeInto": true,
+        "DataModifiedAt": "2021-05-23T16:24:13.1922819+10:00"
+      }
+    ],
+    "CoOwners": [29869076],
+    "Hosts": [],
+    "CheerCount": 1,
+    "FavoriteCount": 1,
+    "VisitCount": 1,
+    "Tags": [
+      {
+        "Tag":"rro",
+        "Type":2
+      },
+      {
+        "Tag":"quest",
+        "Type":0
+      }
+    ]
+  },
   "Soccer": {
     "Room": {
       "RoomId":17,
