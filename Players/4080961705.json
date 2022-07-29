@@ -4,7 +4,7 @@
   "Username":"Snuffle.",
   "Level":99,
   "XP":100,
-  "Developer":false,
+  "Developer":true,
   "IsBooster":false,
   "BootMultiplier":0
 }
