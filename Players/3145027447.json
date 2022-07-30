@@ -4,7 +4,7 @@
   "Username":"AtomicDelta",
   "Level":50,
   "XP":100,
-  "Developer":false,
+  "Developer":true,
   "IsBooster":true,
   "BootMultiplier":9
 }
