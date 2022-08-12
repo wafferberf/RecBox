@@ -3706,6 +3706,54 @@
       }
     ]
   },
+  "SuperMarioBros": {
+    "Room": {
+      "RoomId":128394,
+      "Name":"SuperMarioBros",
+      "Description":"it's mario. do you need more?",
+      "CreatorPlayerId":1,
+      "ImageName":"ActivitySuperMarioBros.jpg",
+      "Accessibility":1,
+      "SupportsLevelVoting":false,
+      "IsAGRoom":false,
+      "CloningAllowed":false,
+      "SupportsScreens":true,
+      "SupportsWalkVR":true,
+      "SupportsTeleportVR":true
+    },
+    "Scenes": [
+      {
+        "RoomSceneId":1,
+        "RoomId":128394,
+        "RoomSceneLocationId":"a75f7547-79eb-47c6-8986-6767abcb4f92",
+        "Name":"Home",
+        "IsSandbox":true,
+        "DataBlobName":"pOu_sZ9hzE2HaiSJx3STEA.room",
+        "MaxPlayers":8,
+        "CanMatchmakeInto":true,
+        "DataModifiedAt":"2018-09-06T10:26:15.2591875Z"
+      }
+    ],
+    "CoOwners":[29869076],
+    "Hosts":[],
+    "CheerCount":627,
+    "FavoriteCount":1036,
+    "VisitCount":28041,
+    "Tags": [
+      {
+        "Tag":"arcade",
+        "Type":2
+      },
+      {
+        "Tag":"creator2018",
+        "Type":2
+      },
+      {
+        "Tag":"rectendo",
+        "Type":2
+      }
+    ]
+  },
   "3DCharades": {
     "Room": {
       "RoomId":3,
