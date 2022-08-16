@@ -1,13 +1,11 @@
-{
-  "Id":69420,
-  "FromPlayerId":29869076,
-  "SentTime":"2021-07-29T05:29:02+00:00",
-  "Type":100,
-  "Data": [
-    {
-      "Hello",
-    }
-  ],
-"RoomId":null,
-"PlayerEventId": null
-}
+[
+  {
+    "Id": 48326,
+    "FromPlayerId": 1,
+    "SentTime": "2021-07-29T05:29:02+00:00",
+    "Type": 100,
+    "Data": "Hello, welcome to Rec Box!",
+    "RoomId": "",
+    "PlayerEventId": "",
+  }
+]
