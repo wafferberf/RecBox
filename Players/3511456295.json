@@ -4,7 +4,7 @@
   "Username":"Lucas",
   "Level":500,
   "XP":110,
-  "Developer":true,
-  "IsBooster":true,
+  "Developer":false,
+  "IsBooster":false,
   "BootMultiplier":0
 }
