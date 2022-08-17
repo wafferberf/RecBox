@@ -1,11 +1,11 @@
 [
    {
-      "challengeMapId":3,
-      "completeAll":true,
-      "startAt":"2021-07-17T08:24:38+00:00",
-      "endAt":"2021-07-25T08:24:38+00:00",
-      "serverTime":"2021-07-17T08:24:38+00:00",
-      "challenges": [
+      "ChallengeMapId":3,
+      "CompleteAll":true,
+      "StartAt":"2022-08-16T19:57:56.0943552-04:00",
+      "EndAt":"2024-08-16T19:57:56.0943552-04:00",
+      "ServerTime":"2022-08-17T08:24:38+00:00",
+      "Challenges": [
          {
             "ChallengeId":142,
             "Name":"CompleteCCC",
@@ -31,7 +31,7 @@
             "Complete":false
          }
       ],
-      "gifts":[
+      "Gifts":[
          {
             "GiftDropId":35465,
             "FriendlyName":"MakerPEnTester",
@@ -47,7 +47,7 @@
             "Context":4
          }
       ],
-      "challengeThemeString":"Maker Pen",
-      "challengeThemeId":3
+      "ChallengeThemeString":"Maker Pen",
+      "ChallengeThemeId":3
    }
 ]
