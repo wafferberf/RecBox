@@ -1,5 +1,5 @@
 {
-   "LastUpdated":"2021-03-11T19:03:59.4078658+10:00",
+   {"LastUpdated":"2021-03-11T19:03:59.4078658+10:00",
    "UserGifts":
    {
       "69420": [
@@ -33,7 +33,7 @@
          },
          {
           "Id":9008,
-          "AvatarItemDesc":"f527ffaf-da03-4519-82ed-46a9cb981dc3,5864d23d-1a86-40a6-a52c-46ee670e4508,e0186718-4a18-434b-b96e-0c9c912f0d1f"
+          "AvatarItemDesc":"f527ffaf-da03-4519-82ed-46a9cb981dc3,5864d23d-1a86-40a6-a52c-46ee670e4508,e0186718-4a18-434b-b96e-0c9c912f0d1f",
           "ConsumableItemDesc":"",
           "EquipmentModificationGuid":"",
           "CurrencyType":2,
@@ -42,6 +42,11 @@
           "Level":0,
           "GiftRarity":50,
           "Message":"Test1",
-          "Context":2
-          },
+          “Context”:2
+         }
+      ]
+   }
+}
+
+          
           
