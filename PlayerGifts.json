@@ -21,7 +21,7 @@
             "Id":9008,
             "AvatarItemDesc":"d0a9262f-5504-46a7-bb10-7507503db58e,c0ff7719-c56a-4934-831b-506ad0f51cca,3259238f-4a9e-4e06-99de-6e7324fa0894,e38294cf-6279-4863-9aea-1a19aeaf8476",
             "ConsumableItemDesc":"",
-            "EquipmentPrefabName":"",
+            "ConsumableItemDesc":"",
             "EquipmentModificationGuid":"",
             "CurrencyType":2,
             "Currency":6942000,
@@ -30,7 +30,19 @@
             "GiftRarity":0,
             "Message":"Congrats! You got a Free Alpaca Shirt! Enjoy RecBox!",
             "Context":2
-         }
-      ]
-   }
-}
+         },
+         {
+          "Id":9008,
+          "AvatarItemDesc":"f527ffaf-da03-4519-82ed-46a9cb981dc3,5864d23d-1a86-40a6-a52c-46ee670e4508,e0186718-4a18-434b-b96e-0c9c912f0d1f"
+          "ConsumableItemDesc":"",
+          "ConsumableItemDesc":"",
+          "EquipmentModificationGuid":"",
+          "CurrencyType":2,
+          "Currency":6942000,
+          "Xp":0,
+          "Level":0,
+          "GiftRarity":0,
+          "Message":"Test1",
+          "Context":2
+          },
+          {
