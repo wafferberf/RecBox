@@ -29,16 +29,16 @@
 				"Context": 2
 			},
 			{
-				"Id": 9008,
-				"AvatarItemDesc": "f527ffaf-da03-4519-82ed-46a9cb981dc3,5864d23d-1a86-40a6-a52c-46ee670e4508,e0186718-4a18-434b-b96e-0c9c912f0d1f",
+				"Id": 666,
+				"AvatarItemDesc": "76369aef-aeda-46d2-996a-cd00594d0543,390a476a-5545-48eb-955c-1bf1a16012bf,d759c88d-a159-4c26-86dd-b054bb05b3ed",
 				"ConsumableItemDesc": "",
 				"EquipmentModificationGuid": "",
 				"CurrencyType": 2,
 				"Currency": 20000,
 				"Xp": 0,
 				"Level": 0,
-				"GiftRarity": 50,
-				"Message": "Test1",
+				"GiftRarity": 0,
+				"Message": "Test 1",
 				"Context": 2
 			}
 		]
