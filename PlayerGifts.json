@@ -37,9 +37,9 @@
 				"Currency": 20000,
 				"Xp": 0,
 				"Level": 0,
-				"GiftRarity": 0,
+				"GiftRarity": 20,
 				"Message": "Test 1",
-				"Context": 2
+				"Context": 100010
 			}
 		]
 	}
