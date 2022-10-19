@@ -14,14 +14,14 @@
       ],
       "GiftDrops": [
         {
-          "GiftDropId":9009,
+          "GiftDropId":1107,
           "FriendlyName":"PP",
           "Tooltip":"",
           "AvatarItemDesc":"f527ffaf-da03-4519-82ed-46a9cb981dc3,6e152cc7-e93a-4408-8092-236db420b680,e0186718-4a18-434b-b96e-0c9c912f0d1f",
           "ConsumableItemDesc":"",
           "EquipmentPrefabName":"",
           "EquipmentModificationGuid":"",
-          "Rarity":0,
+          "Rarity":50,
           "IsQuery":false,
           "Unique":false,
           "Level":1,
@@ -30,13 +30,13 @@
       ]
     },
     {
-      "PurchasableItemId":9004,
+      "PurchasableItemId":474,
       "Type":0,
-      "IsFeatured":false,
+      "IsFeatured":true,
       "Prices": [
         {
           "CurrencyType":2,
-          "Price":95
+          "Price":100
         }
       ],
       "GiftDrops": [
