@@ -40,46 +40,6 @@
       }
     ]
   },
-  "FunnyHolotars": {
-    "Room": {
-      "RoomId":143743,
-      "Name":"FunnyHolotars",
-      "Description":"Oof",
-      "CreatorPlayerId":876634,
-      "ImageName":"ActivityFunnyHolotars.jpg",
-      "Accessibility":1,
-      "SupportsLevelVoting":false,
-      "IsAGRoom":false,
-      "CloningAllowed":false,
-      "SupportsScreens":true,
-      "SupportsWalkVR":true,
-      "SupportsTeleportVR":true
-    },
-    "Scenes": [
-      {
-        "RoomSceneId":1,
-        "RoomId":143743,
-        "RoomSceneLocationId":"9932f88f-3929-43a0-a012-a40b5128e346",
-        "Name":"Home",
-        "IsSandbox":true,
-        "DataBlobName":"fwUnu4qYMUehovGoqH_jTQ.room",
-        "MaxPlayers":16,
-        "CanMatchmakeInto":true,
-        "DataModifiedAt":"2018-09-06T03:22:02.3224184Z"
-      }
-    ],
-    "CoOwners":[],
-    "Hosts":[116754081],
-    "CheerCount":36,
-    "FavoriteCount":56,
-    "VisitCount":1282,
-    "Tags": [
-      {
-        "Tag":"community",
-        "Type":2
-      }
-    ]
-  },
     "DealOrNoDeal": {
     "Room": {
       "RoomId":190375,
