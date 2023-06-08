@@ -3714,6 +3714,50 @@
       }
     ]
   },
+  "CopRaidpvp": {
+    "Room": {
+      "RoomId":129169,
+      "Name":"CopRaidpvp",
+      "Description":"Cops and badies",
+      "CreatorPlayerId":1,
+      "ImageName":"ActivityCopRaidpvp.jpg",
+      "Accessibility":1,
+      "SupportsLevelVoting":false,
+      "IsAGRoom":false,
+      "CloningAllowed":false,
+      "SupportsScreens":true,
+      "SupportsWalkVR":true,
+      "SupportsTeleportVR":true
+    },
+    "Scenes": [
+      {
+        "RoomSceneId":1,
+        "RoomId":129169,
+        "RoomSceneLocationId":"a75f7547-79eb-47c6-8986-6767abcb4f92",
+        "Name":"Home",
+        "IsSandbox":true,
+        "DataBlobName":"1au2R3VaFEuo9WcwlWw5wA.room",
+        "MaxPlayers":20,
+        "CanMatchmakeInto":true,
+        "DataModifiedAt":"2018-09-18T05:01:29.0643216Z"
+      }
+    ],
+    "CoOwners":[29869076],
+    "Hosts":[],
+    "CheerCount":3191,
+    "FavoriteCount":3182,
+    "VisitCount":217207,
+    "Tags": [
+      {
+        "Tag":"pvp",
+        "Type":2
+      },
+      {
+        "Tag":"roleplay",
+        "Type":2
+      }
+    ]
+  },
   "3DCharades": {
     "Room": {
       "RoomId":3,
