@@ -3758,46 +3758,6 @@
       }
     ]
   },
-  "TRICKorTREAT": {
-    "Room": {
-      "RoomId":195522,
-      "Name":"TRICKorTREAT",
-      "Description":"Bring your costumes and get candy, but watch out!",
-      "CreatorPlayerId":1,
-      "ImageName":"ActivityTRICKorTREAT.jpg",
-      "Accessibility":1,
-      "SupportsLevelVoting":false,
-      "IsAGRoom":false,
-      "CloningAllowed":false,
-      "SupportsScreens":true,
-      "SupportsWalkVR":true,
-      "SupportsTeleportVR":true
-    },
-    "Scenes": [
-      {
-        "RoomSceneId":1,
-        "RoomId":129169,
-        "RoomSceneLocationId":"a75f7547-79eb-47c6-8986-6767abcb4f92",
-        "Name":"Home",
-        "IsSandbox":true,
-        "DataBlobName":"gf3JJBOlgkyMayHpTN9ouw.room",
-        "MaxPlayers":40,
-        "CanMatchmakeInto":true,
-        "DataModifiedAt":"2018-09-22T00:39:18.0203776Z"
-      }
-    ],
-    "CoOwners":[29869076],
-    "Hosts":[],
-    "CheerCount":1138,
-    "FavoriteCount":2941,
-    "VisitCount":92273,
-    "Tags": [
-      {
-        "Tag":"halloween",
-        "Type":2
-      }
-    ]
-  },
   "3DCharades": {
     "Room": {
       "RoomId":3,
