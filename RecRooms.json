@@ -3758,6 +3758,46 @@
       }
     ]
   },
+  "bajablast": {
+    "Room": {
+      "RoomId":19128,
+      "Name":"bajablast",
+      "Description":"Park [no info of this room has been found yet, original by Harrison, privated room, check back later!]",
+      "CreatorPlayerId":1,
+      "ImageName":"",
+      "Accessibility":1,
+      "SupportsLevelVoting":false,
+      "IsAGRoom":false,
+      "CloningAllowed":false,
+      "SupportsScreens":true,
+      "SupportsWalkVR":true,
+      "SupportsTeleportVR":true
+    },
+    "Scenes": [
+      {
+        "RoomSceneId":1,
+        "RoomId":19128,
+        "RoomSceneLocationId":"0a864c86-5a71-4e18-8041-8124e4dc9d98",
+        "Name":"Home",
+        "IsSandbox":true,
+        "DataBlobName":"TUUv4jZPYUKUtyuFlzZATA",
+        "MaxPlayers":40,
+        "CanMatchmakeInto":true,
+        "DataModifiedAt":"2018-06-01T02:46:04.3480839Z"
+      }
+    ],
+    "CoOwners":[29869076],
+    "Hosts":[],
+    "CheerCount":0,
+    "FavoriteCount":0,
+    "VisitCount":0,
+    "Tags": [
+      {
+        "Tag":"nodata",
+        "Type":2
+      }
+    ]
+  },
   "3DCharades": {
     "Room": {
       "RoomId":3,
